@@ -184,6 +184,10 @@
       <option value="reviewed">Revisado</option>
       <option value="discarded">Descartado</option>
     </select>
+    <label style="display:flex; align-items:center; gap:6px; font-size:12px; color:var(--muted); white-space:nowrap;">
+      <input type="checkbox" id="hide-discarded" checked style="accent-color: var(--signal);">
+      Ocultar descartadas
+    </label>
   </div>
 
   <div id="job-list"></div>
@@ -198,7 +202,22 @@
 
 <script>
 let JOBS = [];
-let CURRENT_STATUS = {}; // cambios de estado en memoria (no persisten al recargar)
+let CURRENT_STATUS = {}; // se carga/guarda en localStorage, persiste entre visitas
+
+function loadStatusStore(){
+  try{
+    return JSON.parse(localStorage.getItem('job-alert-status') || '{}');
+  }catch(e){
+    return {};
+  }
+}
+function saveStatusStore(){
+  try{
+    localStorage.setItem('job-alert-status', JSON.stringify(CURRENT_STATUS));
+  }catch(e){
+    console.warn('No se pudo guardar el estado localmente', e);
+  }
+}
 
 const sourceLabels = {
   linkedin: 'LinkedIn',
@@ -222,7 +241,8 @@ async function loadJobs(){
     return;
   }
   JOBS.sort((a,b) => new Date(b.found_at) - new Date(a.found_at));
-  JOBS.forEach(j => CURRENT_STATUS[j.id] = j.status || 'new');
+  const stored = loadStatusStore();
+  JOBS.forEach(j => CURRENT_STATUS[j.id] = stored[j.id] || j.status || 'new');
   populateSourceFilter();
   renderStats();
   render();
@@ -272,11 +292,14 @@ function render(){
   const list = document.getElementById('job-list');
   list.innerHTML = '';
 
+  const hideDiscarded = document.getElementById('hide-discarded').checked;
+
   const filtered = JOBS.filter(j => {
     const matchesQ = !q || (j.title+' '+j.company+' '+(j.matched_keywords||[]).join(' ')).toLowerCase().includes(q);
     const matchesSrc = !src || j.source === src;
     const matchesSt = !st || CURRENT_STATUS[j.id] === st;
-    return matchesQ && matchesSrc && matchesSt;
+    const matchesHide = !hideDiscarded || CURRENT_STATUS[j.id] !== 'discarded';
+    return matchesQ && matchesSrc && matchesSt && matchesHide;
   });
 
   document.getElementById('empty-state').style.display = filtered.length ? 'none' : 'block';
@@ -337,6 +360,7 @@ function render(){
     });
     el.querySelector('.status-select').addEventListener('change', (e) => {
       CURRENT_STATUS[job.id] = e.target.value;
+      saveStatusStore();
       renderStats();
       render();
     });
@@ -348,6 +372,7 @@ function render(){
 document.getElementById('search').addEventListener('input', render);
 document.getElementById('filter-source').addEventListener('change', render);
 document.getElementById('filter-status').addEventListener('change', render);
+document.getElementById('hide-discarded').addEventListener('change', render);
 
 loadJobs();
 </script>
