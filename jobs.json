@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Backend Developer (Python)",
+    "company": "Acme Software",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/000000",
+    "matched_keywords": ["python", "remoto"],
+    "found_at": "2026-07-22T09:12:00Z",
+    "snippet": "Buscamos backend developer con experiencia en Python, Django y bases de datos relacionales. Modalidad 100% remota.",
+    "status": "new"
+  },
+  {
+    "id": "sample-2",
+    "title": "Analista de Datos Senior",
+    "company": "Grupo Financiero Sur",
+    "source": "computrabajo",
+    "url": "https://www.computrabajo.com.ar/000000",
+    "matched_keywords": ["sql", "senior"],
+    "found_at": "2026-07-21T18:40:00Z",
+    "snippet": "Puesto senior para el área de datos. Requiere SQL avanzado y experiencia en Power BI.",
+    "status": "reviewed"
+  },
+  {
+    "id": "sample-3",
+    "title": "Desarrollador Full Stack",
+    "company": "Bumeran Tech",
+    "source": "bumeran",
+    "url": "https://www.bumeran.com.ar/000000",
+    "matched_keywords": ["react", "node", "remoto"],
+    "found_at": "2026-07-20T14:05:00Z",
+    "snippet": "Empresa de tecnología busca full stack developer con React y Node.js, trabajo remoto desde cualquier parte de Argentina.",
+    "status": "new"
+  }
+]

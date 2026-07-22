@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar de empleo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #12151c;
+    --surface: #1b2028;
+    --surface-2: #222836;
+    --border: #2a303c;
+    --text: #edeff2;
+    --muted: #8a93a3;
+    --signal: #3ddc97;
+    --signal-dim: rgba(61,220,151,0.15);
+    --amber: #e8a33d;
+    --amber-dim: rgba(232,163,61,0.15);
+    --danger: #e0616b;
+    --danger-dim: rgba(224,97,107,0.15);
+    --radius: 10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'IBM Plex Mono', monospace;
+    min-height:100vh;
+  }
+  .wrap{max-width:920px; margin:0 auto; padding:28px 20px 60px;}
+
+  /* ---- header / status strip ---- */
+  header{margin-bottom:22px;}
+  .title-row{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap;}
+  h1{
+    font-family:'Space Grotesk', sans-serif;
+    font-weight:700;
+    font-size:26px;
+    letter-spacing:-0.01em;
+    margin:0;
+  }
+  .subtitle{color:var(--muted); font-size:13px;}
+
+  .scanbar{
+    position:relative;
+    margin-top:16px;
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:14px 16px;
+    display:flex;
+    gap:24px;
+    flex-wrap:wrap;
+    overflow:hidden;
+  }
+  .scanbar::before{
+    content:"";
+    position:absolute; top:0; left:-30%;
+    width:30%; height:2px;
+    background:linear-gradient(90deg, transparent, var(--signal), transparent);
+    animation: sweep 3.2s linear infinite;
+    opacity:0.8;
+  }
+  @keyframes sweep{
+    0%{ left:-30%; }
+    100%{ left:100%; }
+  }
+  .stat{display:flex; flex-direction:column; gap:2px;}
+  .stat .n{font-family:'Space Grotesk', sans-serif; font-size:19px; font-weight:700;}
+  .stat .l{font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em;}
+  .stat.signal .n{color:var(--signal);}
+
+  /* ---- filters ---- */
+  .filters{
+    display:flex; gap:10px; margin:20px 0 18px; flex-wrap:wrap;
+  }
+  .filters input[type="text"]{
+    flex:1; min-width:180px;
+    background:var(--surface); border:1px solid var(--border); color:var(--text);
+    padding:10px 12px; border-radius:8px; font-family:inherit; font-size:13px;
+  }
+  .filters select{
+    background:var(--surface); border:1px solid var(--border); color:var(--text);
+    padding:10px 12px; border-radius:8px; font-family:inherit; font-size:13px;
+  }
+  .filters input::placeholder{color:var(--muted);}
+
+  /* ---- job cards ---- */
+  .job{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:16px 18px;
+    margin-bottom:12px;
+  }
+  .job-top{display:flex; justify-content:space-between; align-items:flex-start; gap:12px; flex-wrap:wrap;}
+  .badge{
+    display:inline-flex; align-items:center; gap:6px;
+    font-size:11px; text-transform:uppercase; letter-spacing:.05em;
+    color:var(--muted); padding:3px 8px; border:1px solid var(--border); border-radius:20px;
+  }
+  .badge .dot{width:6px; height:6px; border-radius:50%; background:var(--muted);}
+  .badge.linkedin .dot{background:#4a9eff;}
+  .badge.computrabajo .dot{background:#ff8a4a;}
+  .badge.bumeran .dot{background:#c07bff;}
+  .badge.zonajobs .dot{background:#4ade80;}
+  .badge.indeed .dot{background:#5ecbe0;}
+
+  .job h3{
+    font-family:'Space Grotesk', sans-serif;
+    font-size:17px; margin:8px 0 2px; font-weight:500;
+  }
+  .job .company{color:var(--muted); font-size:13px; margin-bottom:8px;}
+  .job .snippet{font-size:13px; line-height:1.5; color:#c7ccd4; margin-bottom:10px;}
+
+  .kw-row{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px;}
+  .kw{
+    font-size:11px; background:var(--signal-dim); color:var(--signal);
+    padding:3px 8px; border-radius:20px;
+  }
+
+  .job-actions{display:flex; gap:8px; flex-wrap:wrap; align-items:center;}
+  button, .link-btn{
+    font-family:inherit; font-size:12px; cursor:pointer;
+    border-radius:7px; padding:7px 12px; border:1px solid var(--border);
+    background:var(--surface-2); color:var(--text);
+    text-decoration:none; display:inline-flex; align-items:center; gap:6px;
+  }
+  button:hover, .link-btn:hover{border-color:var(--signal);}
+  .status-select{
+    margin-left:auto;
+    background:var(--surface-2); color:var(--muted); border:1px solid var(--border);
+    border-radius:7px; padding:6px 10px; font-family:inherit; font-size:12px;
+  }
+
+  .draft-box{
+    display:none; margin-top:12px; border-top:1px solid var(--border); padding-top:12px;
+  }
+  .draft-box.open{display:block;}
+  .draft-box textarea{
+    width:100%; min-height:160px; background:var(--bg); color:var(--text);
+    border:1px solid var(--border); border-radius:8px; padding:12px; font-family:inherit;
+    font-size:12.5px; line-height:1.5; resize:vertical;
+  }
+  .draft-actions{display:flex; gap:8px; margin-top:8px;}
+
+  .empty{
+    text-align:center; color:var(--muted); padding:60px 20px; font-size:13px;
+  }
+
+  .status-tag{font-size:11px; padding:2px 8px; border-radius:20px;}
+  .status-tag.new{background:var(--signal-dim); color:var(--signal);}
+  .status-tag.reviewed{background:var(--amber-dim); color:var(--amber);}
+  .status-tag.discarded{background:var(--danger-dim); color:var(--danger);}
+
+  footer{margin-top:30px; color:var(--muted); font-size:11.5px; line-height:1.6;}
+  footer code{background:var(--surface); padding:1px 5px; border-radius:4px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title-row">
+      <h1>Radar de empleo</h1>
+      <span class="subtitle">monitoreo de ofertas · lee <code>jobs.json</code></span>
+    </div>
+    <div class="scanbar">
+      <div class="stat"><span class="n" id="stat-total">–</span><span class="l">ofertas totales</span></div>
+      <div class="stat signal"><span class="n" id="stat-new">–</span><span class="l">nuevas</span></div>
+      <div class="stat"><span class="n" id="stat-last">–</span><span class="l">último escaneo</span></div>
+      <div class="stat"><span class="n" id="stat-sources">–</span><span class="l">fuentes activas</span></div>
+    </div>
+  </header>
+
+  <div class="filters">
+    <input type="text" id="search" placeholder="Buscar por título, empresa o palabra clave...">
+    <select id="filter-source"><option value="">Todas las fuentes</option></select>
+    <select id="filter-status">
+      <option value="">Todos los estados</option>
+      <option value="new">Nuevo</option>
+      <option value="reviewed">Revisado</option>
+      <option value="discarded">Descartado</option>
+    </select>
+  </div>
+
+  <div id="job-list"></div>
+  <div class="empty" id="empty-state" style="display:none;">No hay ofertas que coincidan con el filtro.</div>
+
+  <footer>
+    Datos cargados desde <code>jobs.json</code> en esta misma carpeta. Si ese archivo lo actualiza
+    el script de escaneo (ver <code>scan_email.py</code> / GitHub Actions), esta página se refresca
+    sola con las ofertas nuevas cada vez que la abrís o recargás.
+  </footer>
+</div>
+
+<script>
+let JOBS = [];
+let CURRENT_STATUS = {}; // cambios de estado en memoria (no persisten al recargar)
+
+const sourceLabels = {
+  linkedin: 'LinkedIn',
+  computrabajo: 'Computrabajo',
+  bumeran: 'Bumeran',
+  zonajobs: 'ZonaJobs',
+  indeed: 'Indeed'
+};
+
+async function loadJobs(){
+  try{
+    const res = await fetch('jobs.json?_=' + Date.now());
+    if(!res.ok) throw new Error('no jobs.json');
+    JOBS = await res.json();
+  }catch(e){
+    document.getElementById('job-list').innerHTML =
+      '<div class="empty">No pude leer jobs.json (¿lo estás abriendo con doble clic? '+
+      'los navegadores bloquean fetch() sobre archivos locales). '+
+      'Corré <code>python3 -m http.server</code> en esta carpeta y abrí '+
+      '<code>http://localhost:8000</code>, o publicá la carpeta con GitHub Pages.</div>';
+    return;
+  }
+  JOBS.sort((a,b) => new Date(b.found_at) - new Date(a.found_at));
+  JOBS.forEach(j => CURRENT_STATUS[j.id] = j.status || 'new');
+  populateSourceFilter();
+  renderStats();
+  render();
+}
+
+function populateSourceFilter(){
+  const sel = document.getElementById('filter-source');
+  const sources = [...new Set(JOBS.map(j => j.source))];
+  sources.forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s;
+    opt.textContent = sourceLabels[s] || s;
+    sel.appendChild(opt);
+  });
+}
+
+function renderStats(){
+  document.getElementById('stat-total').textContent = JOBS.length;
+  document.getElementById('stat-new').textContent = JOBS.filter(j => CURRENT_STATUS[j.id] === 'new').length;
+  document.getElementById('stat-sources').textContent = new Set(JOBS.map(j=>j.source)).size;
+  const last = JOBS[0] ? new Date(JOBS[0].found_at) : null;
+  document.getElementById('stat-last').textContent = last
+    ? last.toLocaleString('es-AR', {day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'})
+    : '—';
+}
+
+function buildDraft(job){
+  return `Asunto: Postulación - ${job.title}
+
+Hola,
+
+Me contacto en referencia a la búsqueda de ${job.title} publicada en ${sourceLabels[job.source] || job.source}.
+
+Adjunto mi CV. Cuento con experiencia relacionada a ${(job.matched_keywords||[]).join(', ')}, y me interesa mucho la oportunidad en ${job.company}.
+
+Quedo atento/a a sus comentarios.
+
+Saludos cordiales,
+[Tu nombre]`;
+}
+
+function render(){
+  const q = document.getElementById('search').value.toLowerCase();
+  const src = document.getElementById('filter-source').value;
+  const st = document.getElementById('filter-status').value;
+
+  const list = document.getElementById('job-list');
+  list.innerHTML = '';
+
+  const filtered = JOBS.filter(j => {
+    const matchesQ = !q || (j.title+' '+j.company+' '+(j.matched_keywords||[]).join(' ')).toLowerCase().includes(q);
+    const matchesSrc = !src || j.source === src;
+    const matchesSt = !st || CURRENT_STATUS[j.id] === st;
+    return matchesQ && matchesSrc && matchesSt;
+  });
+
+  document.getElementById('empty-state').style.display = filtered.length ? 'none' : 'block';
+
+  filtered.forEach(job => {
+    const el = document.createElement('div');
+    el.className = 'job';
+    const statusTagClass = CURRENT_STATUS[job.id];
+    const statusTagLabel = {new:'Nuevo', reviewed:'Revisado', discarded:'Descartado'}[statusTagClass] || 'Nuevo';
+
+    el.innerHTML = `
+      <div class="job-top">
+        <span class="badge ${job.source}"><span class="dot"></span>${sourceLabels[job.source] || job.source}</span>
+        <span class="status-tag ${statusTagClass}">${statusTagLabel}</span>
+      </div>
+      <h3>${job.title}</h3>
+      <div class="company">${job.company}</div>
+      <div class="snippet">${job.snippet || ''}</div>
+      <div class="kw-row">${(job.matched_keywords||[]).map(k => `<span class="kw">${k}</span>`).join('')}</div>
+      <div class="job-actions">
+        <a class="link-btn" href="${job.url}" target="_blank" rel="noopener">Ver oferta ↗</a>
+        <button class="draft-btn">Generar borrador de mail</button>
+        <select class="status-select">
+          <option value="new" ${statusTagClass==='new'?'selected':''}>Nuevo</option>
+          <option value="reviewed" ${statusTagClass==='reviewed'?'selected':''}>Revisado</option>
+          <option value="discarded" ${statusTagClass==='discarded'?'selected':''}>Descartado</option>
+        </select>
+      </div>
+      <div class="draft-box">
+        <textarea>${buildDraft(job)}</textarea>
+        <div class="draft-actions">
+          <button class="copy-btn">Copiar texto</button>
+          <a class="link-btn mailto-btn" href="#">Abrir en mi correo</a>
+        </div>
+      </div>
+    `;
+
+    const draftBox = el.querySelector('.draft-box');
+    el.querySelector('.draft-btn').addEventListener('click', () => {
+      draftBox.classList.toggle('open');
+    });
+    el.querySelector('.copy-btn').addEventListener('click', () => {
+      const ta = el.querySelector('textarea');
+      ta.select();
+      document.execCommand('copy');
+      const btn = el.querySelector('.copy-btn');
+      const old = btn.textContent;
+      btn.textContent = 'Copiado ✓';
+      setTimeout(() => btn.textContent = old, 1500);
+    });
+    const mailtoBtn = el.querySelector('.mailto-btn');
+    mailtoBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const text = el.querySelector('textarea').value;
+      const subjectLine = text.split('\n')[0].replace(/^Asunto:\s*/, '');
+      const body = text.split('\n').slice(1).join('\n').trim();
+      window.location.href = `mailto:?subject=${encodeURIComponent(subjectLine)}&body=${encodeURIComponent(body)}`;
+    });
+    el.querySelector('.status-select').addEventListener('change', (e) => {
+      CURRENT_STATUS[job.id] = e.target.value;
+      renderStats();
+      render();
+    });
+
+    list.appendChild(el);
+  });
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('filter-source').addEventListener('change', render);
+document.getElementById('filter-status').addEventListener('change', render);
+
+loadJobs();
+</script>
+</body>
+</html>
