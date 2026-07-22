@@ -1,0 +1,23 @@
+{
+  "imap_host": "imap.gmail.com",
+  "imap_user": "carreroiara1@gmail.com",
+  "_comentario_imap_pass": "No pongas la contraseña acá. Usá el secret IMAP_PASS en GitHub Actions.",
+
+  "senders": [
+    "jobs-noreply@linkedin.com",
+    "jobalerts-noreply@linkedin.com",
+    "notificaciones@computrabajo.com",
+    "no-reply@bumeran.com.ar"
+  ],
+
+  "keywords_include": [
+    "python",
+    "backend",
+    "remoto",
+    "sql"
+  ],
+  "keywords_exclude": [
+    "pasantia",
+    "ventas puerta a puerta"
+  ]
+}

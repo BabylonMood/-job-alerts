@@ -1,0 +1,25 @@
+{
+  "imap_host": "imap.gmail.com",
+  "imap_user": "tu.correo.dedicado@gmail.com",
+  "_comentario_imap_pass": "No pongas la contraseña acá si vas a subir esto a GitHub. Usá el secret IMAP_PASS del workflow.",
+
+  "senders": [
+    "jobs-noreply@linkedin.com",
+    "jobalerts-noreply@linkedin.com",
+    "notificaciones@computrabajo.com",
+    "no-reply@bumeran.com.ar",
+    "alertas@zonajobs.com.ar",
+    "noreply@indeed.com"
+  ],
+
+  "keywords_include": [
+    "python",
+    "backend",
+    "remoto",
+    "sql"
+  ],
+  "keywords_exclude": [
+    "pasantia",
+    "ventas puerta a puerta"
+  ]
+}
