@@ -1,6 +1,6 @@
 {
   "imap_host": "imap.gmail.com",
-  "imap_user": "carreroiara1@gmail.com",
+  "imap_user": "configurado-via-secret",
   "_comentario_imap_pass": "No pongas la contraseña acá. Usá el secret IMAP_PASS en GitHub Actions.",
 
   "senders": [
