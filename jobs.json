@@ -1,11 +1,27 @@
 [
   {
+    "id": "ef199ff1040d45ae",
+    "title": "«Asistente Administrativo remoto»: Banco Falabella",
+    "company": "Analista de Administración publicado el 7/21/26",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4443376766/?trackingId=jyUZpd%2BTNamBjl4WrG%2BuRw%3D%3D&refId=FWgTPMHcPvjn%2F2Cp8gdWig%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BDL4vZfqMSu6CZSs%2FaXS5sg%3D%3D&midToken=AQGJqg12Xe5rrg&midSig=06welitWRyUYk1&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4443376766_ssid_5316570985_fmid_dvs4yl~mrwop2iw~y2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4443376766_ssid_5316570985_fmid_dvs4yl~mrwop2iw~y2-null-dvs4yl~mrwop2iw~y2-null-null&eid=dvs4yl-mrwop2iw-y2&otpToken=ZTc1Y2YxNjc3ODA3MzRiZGJiNGEyZDk1NTQ0NTA5Nzk0NmM0NzBlZTU5NjY3ZDc0MjRiMjZiYWZhYmUyNzJkZmU5YjM3NmY4M2ZkMzYzMjgxMDYzMmE3MzA4NGIyNmUwZGY0MWEzNDZmOGRlOTNiMDYwZTA4NjEyY2U4YmRjNzI3OGE2MDFhNzUyNjJmZDFlLDIsMQ%3D%3D",
+    "matched_keywords": [
+      "remoto"
+    ],
+    "found_at": "2026-07-22T23:22:07.649872+00:00",
+    "snippet": "Tu alerta de empleo para Asistente Administrativo remoto en América Latina          \r Más de 30 nuevos empleos coinciden con tus preferencias.\r \r Resultados de la nueva búsqueda de empleo con IA\r \r             \r Analista de Administración\r Banco Falabella\r Las Condes\r \r Esta empresa busca personal a",
+    "status": "new"
+  },
+  {
     "id": "sample-1",
     "title": "Backend Developer (Python)",
     "company": "Acme Software",
     "source": "linkedin",
     "url": "https://www.linkedin.com/jobs/view/000000",
-    "matched_keywords": ["python", "remoto"],
+    "matched_keywords": [
+      "python",
+      "remoto"
+    ],
     "found_at": "2026-07-22T09:12:00Z",
     "snippet": "Buscamos backend developer con experiencia en Python, Django y bases de datos relacionales. Modalidad 100% remota.",
     "status": "new"
@@ -16,7 +32,10 @@
     "company": "Grupo Financiero Sur",
     "source": "computrabajo",
     "url": "https://www.computrabajo.com.ar/000000",
-    "matched_keywords": ["sql", "senior"],
+    "matched_keywords": [
+      "sql",
+      "senior"
+    ],
     "found_at": "2026-07-21T18:40:00Z",
     "snippet": "Puesto senior para el área de datos. Requiere SQL avanzado y experiencia en Power BI.",
     "status": "reviewed"
@@ -27,7 +46,11 @@
     "company": "Bumeran Tech",
     "source": "bumeran",
     "url": "https://www.bumeran.com.ar/000000",
-    "matched_keywords": ["react", "node", "remoto"],
+    "matched_keywords": [
+      "react",
+      "node",
+      "remoto"
+    ],
     "found_at": "2026-07-20T14:05:00Z",
     "snippet": "Empresa de tecnología busca full stack developer con React y Node.js, trabajo remoto desde cualquier parte de Argentina.",
     "status": "new"
