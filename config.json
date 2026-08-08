@@ -11,13 +11,34 @@
   ],
 
   "keywords_include": [
-    "python",
-    "backend",
-    "remoto",
-    "sql"
+    "project manager",
+    "project management",
+    "gestion de proyectos",
+    "coordinador de proyectos",
+    "coordinadora de proyectos",
+    "pmo",
+    "delivery manager",
+    "scrum master",
+    "operations manager",
+    "gerente de operaciones",
+    "coordinador de operaciones",
+    "coordinadora de operaciones",
+    "administrativo",
+    "administrativa",
+    "administrativo virtual",
+    "administrativa virtual",
+    "asistente virtual",
+    "asistente ejecutivo",
+    "asistente ejecutiva",
+    "analista administrativo",
+    "agencia de marketing",
+    "marketing agency",
+    "account manager"
   ],
   "keywords_exclude": [
     "pasantia",
-    "ventas puerta a puerta"
+    "ventas puerta a puerta",
+    "presencial",
+    "hibrido"
   ]
 }
