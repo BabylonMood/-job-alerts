@@ -6,8 +6,8 @@
   "senders": [
     "jobs-noreply@linkedin.com",
     "jobalerts-noreply@linkedin.com",
-    "notificaciones@computrabajo.com",
-    "no-reply@bumeran.com.ar"
+    "trabajos_ar@computrabajo.com",
+    "no_reply@bumeran.com"
   ],
 
   "keywords_include": [
