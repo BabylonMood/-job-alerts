@@ -6,15 +6,6 @@ Lee una casilla IMAP donde llegan las alertas de LinkedIn / Computrabajo /
 Bumeran / ZonaJobs / Indeed (configuradas por vos en cada sitio), extrae las
 ofertas de esos mails, las filtra por palabras clave y actualiza jobs.json
 para que el dashboard (index.html) las muestre.
-
-IMPORTANTE:
-- Esto NO scrapea las páginas de empleo. Lee correos que los propios portales
-  te mandan porque vos configuraste la alerta ahí. Es la forma legal y estable
-  de hacer esto: si scrapeás LinkedIn directo te banean la cuenta o la IP.
-- El formato de esos mails cambia con el tiempo y varía por portal. Los
-  extractores de abajo son heurísticos (best effort). Si notás que a un
-  portal no le está sacando bien el título/empresa, revisá un mail real de
-  ese portal y ajustá la función extract_<portal> correspondiente.
 """
 
 import imaplib
@@ -25,6 +16,7 @@ import re
 import os
 import sys
 import hashlib
+import unicodedata
 from datetime import datetime, timezone
 
 CONFIG_PATH = os.environ.get("JOB_ALERT_CONFIG", "config.json")
@@ -52,6 +44,22 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def safe_decode(raw_bytes, enc):
+    """Decodifica bytes probando el encoding indicado, con varios fallbacks
+    para encodings raras/legacy que a veces mandan estos portales
+    (ej. 'unknown-8bit', 'x-user-defined', etc.)."""
+    candidates = [enc, "utf-8", "latin-1"]
+    for c in candidates:
+        if not c:
+            continue
+        try:
+            return raw_bytes.decode(c, errors="ignore")
+        except (LookupError, TypeError):
+            continue
+    # último recurso: nunca debería fallar esto
+    return raw_bytes.decode("utf-8", errors="replace")
+
+
 def decode_mime(s):
     if s is None:
         return ""
@@ -59,7 +67,7 @@ def decode_mime(s):
     out = ""
     for text, enc in parts:
         if isinstance(text, bytes):
-            out += text.decode(enc or "utf-8", errors="ignore")
+            out += safe_decode(text, enc)
         else:
             out += text
     return out
@@ -79,7 +87,7 @@ def get_body(msg):
                 if payload is None:
                     continue
                 charset = part.get_content_charset() or "utf-8"
-                decoded = payload.decode(charset, errors="ignore")
+                decoded = safe_decode(payload, charset)
             except Exception:
                 continue
             if ctype == "text/plain":
@@ -91,7 +99,7 @@ def get_body(msg):
         try:
             payload = msg.get_payload(decode=True)
             charset = msg.get_content_charset() or "utf-8"
-            return payload.decode(charset, errors="ignore") if payload else ""
+            return safe_decode(payload, charset) if payload else ""
         except Exception:
             return ""
 
@@ -110,10 +118,6 @@ def strip_html(html):
 def find_urls(text):
     return re.findall(r"https?://[^\s\"'<>]+", text)
 
-
-# ---------------------------------------------------------------------------
-# Extractores por portal (heurísticos: ajustar según los mails reales)
-# ---------------------------------------------------------------------------
 
 def detect_source(from_addr):
     from_addr = from_addr.lower()
@@ -146,8 +150,6 @@ def extract_generic(subject, text, urls):
 
 
 EXTRACTORS = {
-    # Todos usan el mismo fallback genérico por ahora. Si querés precisión
-    # por portal, agregá acá un regex específico basado en un mail real.
     "linkedin": extract_generic,
     "computrabajo": extract_generic,
     "bumeran": extract_generic,
@@ -157,15 +159,21 @@ EXTRACTORS = {
 }
 
 
+def normalize(s):
+    """Saca tildes/acentos para que 'administracion' matchee 'Administración'."""
+    s = unicodedata.normalize("NFKD", s)
+    return "".join(c for c in s if not unicodedata.combining(c)).lower()
+
+
 def keyword_match(title, snippet, config):
-    text = (title + " " + snippet).lower()
-    include = [k.lower() for k in config.get("keywords_include", [])]
-    exclude = [k.lower() for k in config.get("keywords_exclude", [])]
+    text = normalize(title + " " + snippet)
+    include = [normalize(k) for k in config.get("keywords_include", [])]
+    exclude = [normalize(k) for k in config.get("keywords_exclude", [])]
 
     if exclude and any(k in text for k in exclude):
         return None
     if not include:
-        return []  # sin filtro de inclusión -> todo pasa, sin keywords marcadas
+        return []
     matched = [k for k in include if k in text]
     return matched if matched else None
 
@@ -203,42 +211,48 @@ def main():
         ids = data[0].split()
         print(f"  {sender}: {len(ids)} mail(es) nuevo(s)")
         for mail_id in ids:
-            typ, msg_data = M.fetch(mail_id, "(RFC822)")
-            if typ != "OK":
+            try:
+                typ, msg_data = M.fetch(mail_id, "(RFC822)")
+                if typ != "OK":
+                    continue
+                msg = email.message_from_bytes(msg_data[0][1])
+                subject = decode_mime(msg.get("Subject"))
+                from_addr = decode_mime(msg.get("From"))
+                raw_body = get_body(msg)
+                is_html = "<html" in raw_body.lower() or "<body" in raw_body.lower()
+                text = strip_html(raw_body) if is_html else raw_body
+                urls = find_urls(raw_body)
+
+                source = detect_source(from_addr)
+                extractor = EXTRACTORS.get(source, extract_generic)
+                extracted = extractor(subject, text, urls)
+
+                matched = keyword_match(extracted["title"], extracted["snippet"], config)
+                if matched is None:
+                    print(f"    (descartado por keywords) {extracted['title'][:80]}")
+                    continue
+
+                job_id = make_id(source, extracted["title"], extracted["company"], extracted["url"])
+                if job_id in seen_set:
+                    continue
+
+                job = {
+                    "id": job_id,
+                    "title": extracted["title"],
+                    "company": extracted["company"],
+                    "source": source,
+                    "url": extracted["url"],
+                    "matched_keywords": matched,
+                    "found_at": datetime.now(timezone.utc).isoformat(),
+                    "snippet": extracted["snippet"],
+                    "status": "new",
+                }
+                new_jobs.append(job)
+                seen_set.add(job_id)
+            except Exception as e:
+                # Un mail individual con formato raro no debe tirar abajo todo el escaneo
+                print(f"    (error procesando un mail, lo salteo: {e})")
                 continue
-            msg = email.message_from_bytes(msg_data[0][1])
-            subject = decode_mime(msg.get("Subject"))
-            from_addr = decode_mime(msg.get("From"))
-            raw_body = get_body(msg)
-            is_html = "<html" in raw_body.lower() or "<body" in raw_body.lower()
-            text = strip_html(raw_body) if is_html else raw_body
-            urls = find_urls(raw_body)
-
-            source = detect_source(from_addr)
-            extractor = EXTRACTORS.get(source, extract_generic)
-            extracted = extractor(subject, text, urls)
-
-            matched = keyword_match(extracted["title"], extracted["snippet"], config)
-            if matched is None:
-                continue  # no matchea keywords, o cayó en exclude
-
-            job_id = make_id(source, extracted["title"], extracted["company"], extracted["url"])
-            if job_id in seen_set:
-                continue
-
-            job = {
-                "id": job_id,
-                "title": extracted["title"],
-                "company": extracted["company"],
-                "source": source,
-                "url": extracted["url"],
-                "matched_keywords": matched,
-                "found_at": datetime.now(timezone.utc).isoformat(),
-                "snippet": extracted["snippet"],
-                "status": "new",
-            }
-            new_jobs.append(job)
-            seen_set.add(job_id)
 
     M.logout()
 
