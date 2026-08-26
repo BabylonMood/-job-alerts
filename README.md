@@ -52,10 +52,13 @@ En el repo: `Settings → Secrets and variables → Actions → New repository s
 - `IMAP_USER` → tu casilla dedicada
 - `IMAP_PASS` → la contraseña de aplicación del Paso 1
 
-El workflow en `.github/workflows/scan.yml` ya está listo: corre cada 30
+El workflow en `.github/workflows/scan.yml` ya está listo: corre cada 15
 minutos, ejecuta `scan_email.py`, y si hay ofertas nuevas actualiza
 `jobs.json` y lo commitea de vuelta al repo. También lo podés disparar a
 mano desde la pestaña **Actions → Scan job alerts → Run workflow**.
+
+Las ofertas con más de 14 días se eliminan automáticamente tanto del scanner
+como del dashboard (podés desactivar este filtro desde la página).
 
 ## Paso 5 — Publicar el dashboard (GitHub Pages)
 

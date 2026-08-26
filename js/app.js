@@ -2,7 +2,8 @@
 
 const STATUS_KEY = 'job-alert-status';
 const PREFS_KEY = 'job-alert-prefs';
-const AUTO_REFRESH_MS = 5 * 60 * 1000;
+const AUTO_REFRESH_MS = 15 * 60 * 1000;
+const MAX_AGE_DAYS = 14;
 
 const SOURCE_LABELS = {
   linkedin: 'LinkedIn',
@@ -89,6 +90,7 @@ function restorePrefs() {
   $('search').value = p.search || '';
   $('filter-status').value = p.status || '';
   $('hide-discarded').checked = p.hideDiscarded !== false;
+  $('hide-old').checked = p.hideOld !== false;
   $('filter-source').value = p.source || '';
 }
 
@@ -97,7 +99,8 @@ function persistPrefs() {
     search: $('search').value,
     source: $('filter-source').value,
     status: $('filter-status').value,
-    hideDiscarded: $('hide-discarded').checked
+    hideDiscarded: $('hide-discarded').checked,
+    hideOld: $('hide-old').checked
   });
 }
 
@@ -161,14 +164,18 @@ function filteredJobs() {
   const src = $('filter-source').value;
   const st = $('filter-status').value;
   const hideDiscarded = $('hide-discarded').checked;
+  const hideOld = $('hide-old').checked;
+  const cutoff = Date.now() - MAX_AGE_DAYS * 86400000;
   return JOBS.filter((j) => {
     const status = STATUS[j.id] || 'new';
     const hay = (j.title + ' ' + (j.company || '') + ' ' + (j.matched_keywords || []).join(' ')).toLowerCase();
+    const isOld = new Date(j.found_at).getTime() < cutoff;
     return (
       (!q || hay.includes(q)) &&
       (!src || j.source === src) &&
       (!st || status === st) &&
-      (!hideDiscarded || status !== 'discarded')
+      (!hideDiscarded || status !== 'discarded') &&
+      (!hideOld || !isOld)
     );
   });
 }
@@ -316,6 +323,7 @@ function init() {
   $('filter-source').addEventListener('change', () => { persistPrefs(); render(); });
   $('filter-status').addEventListener('change', () => { persistPrefs(); render(); });
   $('hide-discarded').addEventListener('change', () => { persistPrefs(); render(); });
+  $('hide-old').addEventListener('change', () => { persistPrefs(); render(); });
   $('btn-refresh').addEventListener('click', () => {
     loadJobs();
   });
