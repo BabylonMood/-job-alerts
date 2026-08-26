@@ -26,13 +26,14 @@ import os
 import sys
 import hashlib
 import unicodedata
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 CONFIG_PATH = os.environ.get("JOB_ALERT_CONFIG", "config.json")
 JOBS_PATH = os.environ.get("JOB_ALERT_JOBS", "jobs.json")
 SEEN_PATH = os.environ.get("JOB_ALERT_SEEN", "seen.json")
 MAX_JOBS_STORED = 300
 MAX_SEEN_STORED = 2000
+MAX_JOB_AGE_DAYS = 30
 
 
 def load_config():
@@ -286,6 +287,13 @@ def keyword_match(title, snippet, config):
     return matched if matched else None
 
 
+def _parse_date(iso_str):
+    try:
+        return datetime.fromisoformat(iso_str or "2000-01-01T00:00:00+00:00")
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
 def make_id(source, title, company, url):
     raw = f"{source}|{title}|{company}|{url}".lower()
     return hashlib.sha256(raw.encode()).hexdigest()[:16]
@@ -367,11 +375,19 @@ def main():
         if new_jobs:
             new_ids = {j["id"] for j in new_jobs}
             jobs = new_jobs + [j for j in jobs if j.get("id") not in new_ids]
-            jobs = jobs[:MAX_JOBS_STORED]
-            save_json(JOBS_PATH, jobs)
-            save_json(SEEN_PATH, list(seen_set)[-MAX_SEEN_STORED:])
-            print(f"✅ {len(new_jobs)} oferta(s) nueva(s) agregada(s) a {JOBS_PATH}")
-        else:
+            print(f"✅ {len(new_jobs)} oferta(s) nueva(s) agregada(s)")
+
+        cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_JOB_AGE_DAYS)
+        before = len(jobs)
+        jobs = [j for j in jobs if _parse_date(j.get("found_at")) > cutoff]
+        pruned = before - len(jobs)
+        if pruned:
+            print(f"🗑 {pruned} oferta(s) vencida(s) eliminada(s) (+{MAX_JOB_AGE_DAYS} días)")
+
+        jobs = jobs[:MAX_JOBS_STORED]
+        save_json(JOBS_PATH, jobs)
+        save_json(SEEN_PATH, list(seen_set)[-MAX_SEEN_STORED:])
+        if not new_jobs and not pruned:
             print("Sin ofertas nuevas que matcheen tus keywords.")
     finally:
         try:
