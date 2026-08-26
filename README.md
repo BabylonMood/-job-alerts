@@ -41,7 +41,8 @@ Usá el mail nuevo del Paso 1 en todos.
 2. Copiá `config.example.json` a `config.json` y completá:
    - `imap_user`: tu casilla dedicada
    - `senders`: dejalo como está o ajustalo si ves otra dirección real en tus mails
-   - `keywords_include` / `keywords_exclude`: tus filtros
+   - `keywords_include` / `keywords_exclude`: tus filtros. El matching ignora
+     acentos y mayúsculas: `administracion` matchea `Administración`.
 3. **No pongas la contraseña en config.json.** Se pasa como secret (paso 4).
 
 ## Paso 4 — Secrets de GitHub Actions
@@ -73,6 +74,18 @@ python3 -m http.server
 (Abrir `index.html` con doble clic no funciona: los navegadores bloquean
 `fetch()` sobre archivos locales por seguridad.)
 
+## Funcionalidades del dashboard
+
+- Búsqueda por título, empresa o palabra clave (con debounce).
+- Filtros por fuente y por estado, y opción "ocultar descartadas".
+- Estados Nuevo / Revisado / Descartado que se guardan en tu navegador
+  (localStorage). Puedés exportarlos a un archivo o restablecerlos desde el
+  pie de página.
+- Botón "Marcar todas revisadas" para limpiar el contador de nuevas de una.
+- El dashboard se refresca solo cada 5 minutos (o con el botón de recargar).
+- Borrador de mail de postulación por oferta: lo copiás con un clic o lo
+  abrís directo en tu cliente de correo.
+
 ## Sobre el envío de mails
 
 El dashboard genera un **borrador** de mail de postulación por cada oferta
@@ -82,29 +95,47 @@ no lo mandamos 100% automático: un mail genérico mal armado puede jugarte
 en contra, y conviene que revises a qué te estás postulando antes de que
 salga. Editá el texto en el `<textarea>` antes de mandarlo.
 
+## Mejoras con respecto a la versión original
+
+- El frontend quedó separado en `index.html` + `css/styles.css` +
+  `js/app.js` en vez de un solo archivo gigante.
+- Todos los datos que vienen de `jobs.json` se escapan antes de renderizar
+  (evita inyección de HTML si un título de oferta trae código).
+- Copiar al portapapeles usa la API moderna `navigator.clipboard` con
+  fallback para navegadores viejos.
+- El extractor de LinkedIn ahora saca **varias ofertas por mail de resumen**
+  (antes tomaba el asunto del mail como título y una sola oferta, por eso
+  aparecían cosas raras como "Remote Work en" de empresa).
+- Las URLs de LinkedIn se limpian de los parámetros de tracking
+  (`otpToken`, `lipi`, `trkEmail`, etc.), quedando enlaces cortos y estables.
+- El filtro de keywords ignora acentos, y `seen.json` no crece sin límite.
+
 ## Limitaciones a tener en cuenta
 
 - Los extractores de `scan_email.py` son heurísticos: el formato de los
   mails de cada portal puede cambiar, y puede que el título/empresa no
   salga perfecto siempre. Si ves que un portal en particular sale mal
-  parseado, mandame (o revisá vos) un mail real de ese portal y ajustamos
-  el regex de extracción.
+  parseado, revisá un mail real de ese portal y ajustamos el extractor.
+- Al mejorar el parseo, los IDs de las ofertas cambian (se generan a partir
+  de título + empresa + URL). Las ofertas viejas que quedaron en `jobs.json`
+  con parseo sucio no se van a "corregir" solas: si querés empezar de cero,
+  borrá `jobs.json` y `seen.json`, o quedate con los datos que ya tenés.
 - El estado "Revisado/Descartado" que marcás en el dashboard es solo en
-  memoria del navegador: se resetea si recargás la página. Si querés que
-  persista, el siguiente paso natural es que el botón escriba de vuelta a
-  `jobs.json` vía un pequeño backend, o guardarlo en una hoja de cálculo /
-  base de datos simple — avisame si querés que lo sumemos.
+  memoria del navegador (localStorage): se mantiene entre visitas en el mismo
+  navegador, pero no se sincroniza entre dispositivos. Podés exportar los
+  estados desde el dashboard como respaldo.
 - Esto depende 100% de que las alertas por mail de cada portal sigan
-  llegando con contenido parseable. Si un portal cambia su formato de
-  email radicalmente, hay que retocar su extractor.
+  llegando con contenido parseable.
 
 ## Archivos
 
 | Archivo | Qué hace |
 |---|---|
-| `index.html` | Dashboard que muestra las ofertas y arma el borrador de mail |
+| `index.html` | Dashboard (estructura) |
+| `css/styles.css` | Estilos del dashboard |
+| `js/app.js` | Lógica del dashboard: carga, filtros, estados, borradores |
 | `scan_email.py` | Lee la casilla IMAP y genera/actualiza `jobs.json` |
 | `config.example.json` | Plantilla de configuración (copiar a `config.json`) |
-| `jobs.json` | Ofertas detectadas (se genera/actualiza solo) — trae 3 de ejemplo |
+| `jobs.json` | Ofertas detectadas (se genera/actualiza solo) — trae ejemplos |
 | `seen.json` | IDs ya procesados, para no duplicar alertas (se genera solo) |
 | `.github/workflows/scan.yml` | Corre el scanner cada 30 min en GitHub Actions |

@@ -2,6 +2,7 @@
   "imap_host": "imap.gmail.com",
   "imap_user": "tu.correo.dedicado@gmail.com",
   "_comentario_imap_pass": "No pongas la contraseña acá si vas a subir esto a GitHub. Usá el secret IMAP_PASS del workflow.",
+  "_comentario_matching": "El filtro de keywords ignora acentos y mayúsculas: 'administracion' matchea 'Administración'. Las frases largas se buscan como texto completo en título + resumen.",
 
   "senders": [
     "jobs-noreply@linkedin.com",
