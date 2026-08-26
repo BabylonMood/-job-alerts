@@ -26,6 +26,8 @@ import os
 import sys
 import hashlib
 import unicodedata
+import urllib.request
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 CONFIG_PATH = os.environ.get("JOB_ALERT_CONFIG", "config.json")
@@ -299,6 +301,55 @@ def make_id(source, title, company, url):
     return hashlib.sha256(raw.encode()).hexdigest()[:16]
 
 
+def send_telegram(message):
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+    if not token or not chat_id:
+        return
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        data = urllib.parse.urlencode({
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": "1",
+        }).encode()
+        req = urllib.request.Request(url, data=data, method="POST")
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            if resp.status != 200:
+                print(f"  Telegram: respuesta inesperada {resp.status}")
+    except Exception as e:
+        print(f"  Telegram: no pude enviar notificación: {e}")
+
+
+def build_telegram_message(new_jobs):
+    lines = [f"*🆕 {len(new_jobs)} oferta(s) nueva(s)*\n"]
+    for j in new_jobs[:10]:
+        source = j.get("source", "otro")
+        title = j.get("title", "Sin título")
+        company = j.get("company", "")
+        url = j.get("url", "")
+        kws = ", ".join(j.get("matched_keywords", []))
+        block = f"*{esc_md(title)}*"
+        if company:
+            block += f"\n{esc_md(company)}"
+        if kws:
+            block += f"\n🔑 {esc_md(kws)}"
+        if url:
+            block += f"\n[Ver oferta]({url})"
+        lines.append(block)
+    if len(new_jobs) > 10:
+        lines.append(f"\n_...y {len(new_jobs) - 10} más_")
+    return "\n\n".join(lines)
+
+
+def esc_md(s):
+    text = str(s or "")
+    for ch in ("_", "*", "[", "]", "(", ")", "~", "`", ">", "#", "+", "-", "=", "|", "{", "}", ".", "!"):
+        text = text.replace(ch, "\\" + ch)
+    return text
+
+
 def main():
     config = load_config()
     seen = load_json(SEEN_PATH, [])
@@ -376,6 +427,7 @@ def main():
             new_ids = {j["id"] for j in new_jobs}
             jobs = new_jobs + [j for j in jobs if j.get("id") not in new_ids]
             print(f"✅ {len(new_jobs)} oferta(s) nueva(s) agregada(s)")
+            send_telegram(build_telegram_message(new_jobs))
 
         cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_JOB_AGE_DAYS)
         before = len(jobs)
