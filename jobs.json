@@ -1,5 +1,44 @@
 [
   {
+    "id": "023bf5e358890483",
+    "title": "Asistente Administrativa",
+    "company": "Maus Casa Creativa",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457617853/",
+    "matched_keywords": [
+      "administrativa"
+    ],
+    "found_at": "2026-08-26T20:19:20.744947+00:00",
+    "snippet": "Asistente Administrativa · Maus Casa Creativa · Guadalajara, JAL",
+    "status": "new"
+  },
+  {
+    "id": "c598871f2876792f",
+    "title": "--------------------------------------------------------",
+    "company": "Suporte Administrativo",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4456546257/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-08-26T20:19:20.745076+00:00",
+    "snippet": "-------------------------------------------------------- · Suporte Administrativo · Jobbol",
+    "status": "new"
+  },
+  {
+    "id": "40f4c4dc0bd2e530",
+    "title": "--------------------------------------------------------",
+    "company": "Suporte Administrativo",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4456561235/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-08-26T20:19:20.745190+00:00",
+    "snippet": "-------------------------------------------------------- · Suporte Administrativo · Jobbol",
+    "status": "new"
+  },
+  {
     "id": "85b27cfb1b82af1a",
     "title": "Marketing Operations Manager",
     "company": "Retalent Agency",
@@ -62,19 +101,6 @@
     ],
     "found_at": "2026-08-26T16:08:30.611433+00:00",
     "snippet": "-------------------------------------------------------- · Technical Project Manager · KRIMDA",
-    "status": "new"
-  },
-  {
-    "id": "023bf5e358890483",
-    "title": "Asistente Administrativa",
-    "company": "Maus Casa Creativa",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457617853/",
-    "matched_keywords": [
-      "administrativa"
-    ],
-    "found_at": "2026-08-26T13:31:25.022787+00:00",
-    "snippet": "Asistente Administrativa · Maus Casa Creativa · Guadalajara, JAL",
     "status": "new"
   }
 ]
