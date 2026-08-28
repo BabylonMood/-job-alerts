@@ -1,5 +1,57 @@
 [
   {
+    "id": "929060d274fe2c41",
+    "title": "Operations Manager",
+    "company": "Virtustant",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457707684/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-28T13:28:55.561581+00:00",
+    "snippet": "Operations Manager · Virtustant · Pretoria",
+    "status": "new"
+  },
+  {
+    "id": "a3df3f9fb66eef4d",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457703696/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-28T13:28:55.561884+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Virtustant",
+    "status": "new"
+  },
+  {
+    "id": "e2ab0b5c27e4a03f",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4459876191/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-28T13:28:55.561978+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Project Manager · Nybble Group",
+    "status": "new"
+  },
+  {
+    "id": "5c2434b6e4052814",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4458646038/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-28T13:28:55.562067+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
+    "status": "new"
+  },
+  {
     "id": "1af8d9178cf147b2",
     "title": "Project Manager / Chef de projet digital (100% remote)",
     "company": "Hover",
