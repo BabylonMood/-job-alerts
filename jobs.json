@@ -1,5 +1,44 @@
 [
   {
+    "id": "1617ee28b5cdb114",
+    "title": "Operations Manager",
+    "company": "Ottomatik.io",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4459488003/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-30T22:50:36.411256+00:00",
+    "snippet": "Operations Manager · Ottomatik.io · Mendoza y alrededores",
+    "status": "new"
+  },
+  {
+    "id": "482fd6dc8aa65d07",
+    "title": "--------------------------------------------------------",
+    "company": "Data Delivery Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4459467398/",
+    "matched_keywords": [
+      "delivery manager"
+    ],
+    "found_at": "2026-08-30T22:50:36.411643+00:00",
+    "snippet": "-------------------------------------------------------- · Data Delivery Manager · EPAM Systems",
+    "status": "new"
+  },
+  {
+    "id": "d98e6dca6d01f3b5",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Project Manager (Oncology)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4460567869/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-30T22:50:36.411739+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Project Manager (Oncology) · Premier Research",
+    "status": "new"
+  },
+  {
     "id": "a10f07665b08a126",
     "title": "--------------------------------------------------------",
     "company": "Technical Delivery Manager",
