@@ -1,5 +1,109 @@
 [
   {
+    "id": "f70afb2faefd5862",
+    "title": "Digital Project Manager",
+    "company": "EPAM Systems",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4459729476/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-31T23:57:48.318777+00:00",
+    "snippet": "Digital Project Manager · EPAM Systems · Argentina",
+    "status": "new"
+  },
+  {
+    "id": "1bbc09bb7b07ff0d",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4461010531/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-31T23:57:48.318976+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · Hired",
+    "status": "new"
+  },
+  {
+    "id": "92aa5c0512cf43e5",
+    "title": "--------------------------------------------------------",
+    "company": "Workforce Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4461010082/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-31T23:57:48.319071+00:00",
+    "snippet": "-------------------------------------------------------- · Workforce Operations Manager · Quik Hire Staffing",
+    "status": "new"
+  },
+  {
+    "id": "89bc0fcd85d34d76",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager (Argentina)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4405474591/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-31T23:57:48.319164+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager (Argentina) · Indero (formerly Innovaderm)",
+    "status": "new"
+  },
+  {
+    "id": "4a6e1f9e4c85fd43",
+    "title": "Operations Manager",
+    "company": "Hired",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4461006568/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-31T23:57:49.107850+00:00",
+    "snippet": "Operations Manager · Hired · España",
+    "status": "new"
+  },
+  {
+    "id": "df6483644697b91d",
+    "title": "--------------------------------------------------------",
+    "company": "Clinical Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4460894461/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-31T23:57:49.107960+00:00",
+    "snippet": "-------------------------------------------------------- · Clinical Operations Manager-Spain · Indero (formerly Innovaderm)",
+    "status": "new"
+  },
+  {
+    "id": "0b58c08808a42e86",
+    "title": "--------------------------------------------------------",
+    "company": "Clinical Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4460898453/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-08-31T23:57:49.108186+00:00",
+    "snippet": "-------------------------------------------------------- · Clinical Operations Manager-Spain · Indero (formerly Innovaderm)",
+    "status": "new"
+  },
+  {
+    "id": "fa43d6f1c8fc4c40",
+    "title": "--------------------------------------------------------",
+    "company": "Senior IT Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4424769720/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-08-31T23:57:49.108389+00:00",
+    "snippet": "-------------------------------------------------------- · Senior IT Project Manager - EWM in Pharma · Fusion Consulting",
+    "status": "new"
+  },
+  {
     "id": "7ebe37077235fb85",
     "title": "--------------------------------------------------------",
     "company": "Delivery Manager",
