@@ -1,5 +1,44 @@
 [
   {
+    "id": "995329b521a38163",
+    "title": "Tu solicitud para el puesto de Project Manager",
+    "company": "Go! Marketing",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/help/linkedin/answer/4788?lang=es",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-06T12:57:54.713063+00:00",
+    "snippet": "Tu actualización de Go! Marketing ---------------------------------------- Este email está dirigido a Iara Carrero (Project Manager & Operations | Process Optimization) Averigua por qué incluimos esto: https://www.linkedin.com/help/linkedin/answer/4788?lang=es&lipi=urn%3Ali%3Apage%3Aemail_email_jobs",
+    "status": "new"
+  },
+  {
+    "id": "28cb42c34f2e28d7",
+    "title": "Consultant Project Management",
+    "company": "TransUnion",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4444645426/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-09-06T12:57:55.450730+00:00",
+    "snippet": "Consultant Project Management · TransUnion · Bogotá",
+    "status": "new"
+  },
+  {
+    "id": "6d97fbc6b286e30a",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4462064859/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-06T12:57:55.451202+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - Software Solutions Implementation · Sutherland",
+    "status": "new"
+  },
+  {
     "id": "bd48171dbe270f13",
     "title": "--------------------------------------------------------",
     "company": "Soporte administrativo Universidad",
