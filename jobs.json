@@ -1,5 +1,44 @@
 [
   {
+    "id": "999aa40760d0b78e",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4462680230/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-07T21:08:23.721300+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
+    "status": "new"
+  },
+  {
+    "id": "0f3261d8a2c5ac46",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4462673260/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-07T21:08:23.721409+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
+    "status": "new"
+  },
+  {
+    "id": "52fc622c6c0e28d9",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4315767202/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-07T21:08:23.721670+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Publicis Groupe",
+    "status": "new"
+  },
+  {
     "id": "8d13cc7ce743699b",
     "title": "Project Manager",
     "company": "Caylent",
