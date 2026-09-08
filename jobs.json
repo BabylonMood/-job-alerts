@@ -1,5 +1,57 @@
 [
   {
+    "id": "a5ff20843619bb94",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4444463597/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-08T19:05:03.901629+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos: https://www.linkedin.com/comm/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=r2592000&f_SAL=f_SA_id_230001%3A293007&geoId=91000011&refId=qw8fQc2NbHfo574xGazO0g%3D%3D&origin=FACET_SUGGESTIONS_COMMS_",
+    "status": "new"
+  },
+  {
+    "id": "fb989d5167567e9b",
+    "title": "Project Manager",
+    "company": "WPP Production",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4429944506/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-08T19:05:04.450925+00:00",
+    "snippet": "Project Manager · WPP Production · Montevideo",
+    "status": "new"
+  },
+  {
+    "id": "dd0158f4375e8764",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464080683/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-08T19:05:04.451114+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Elevance Health",
+    "status": "new"
+  },
+  {
+    "id": "5592f1141c0982cb",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4426982553/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-08T19:05:04.451385+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Caylent",
+    "status": "new"
+  },
+  {
     "id": "e559694ae3eb0de3",
     "title": "--------------------------------------------------------",
     "company": "Strategic Project Manager (Remote)",
