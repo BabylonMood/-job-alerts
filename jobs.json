@@ -1,5 +1,18 @@
 [
   {
+    "id": "f50d20b058302aae",
+    "title": "Administrativo/a – Sector Deportivo",
+    "company": "Impulsyn",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464186472/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-11T19:52:45.811241+00:00",
+    "snippet": "Administrativo/a – Sector Deportivo · Impulsyn · España",
+    "status": "new"
+  },
+  {
     "id": "c5550a5c3c9d702f",
     "title": "Project Manager - Remote Work",
     "company": "BairesDev",
@@ -3888,19 +3901,6 @@
     ],
     "found_at": "2026-08-27T05:32:01.904913+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · Job Duck",
-    "status": "new"
-  },
-  {
-    "id": "7f852ab3b2fbbd20",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager 3",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4448880135/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-27T05:32:01.905000+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager 3 · Twilio",
     "status": "new"
   }
 ]
