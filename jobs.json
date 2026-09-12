@@ -1,5 +1,70 @@
 [
   {
+    "id": "9e56c475770cac86",
+    "title": "--------------------------------------------------------",
+    "company": "Traffic & Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465833593/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T15:43:21.643032+00:00",
+    "snippet": "-------------------------------------------------------- · Traffic & Project Manager · de la cruz",
+    "status": "new"
+  },
+  {
+    "id": "e420364a1721276f",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager (Digital)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4430122931/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T15:43:21.643148+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager (Digital) · Critical Mass",
+    "status": "new"
+  },
+  {
+    "id": "44033075d546e727",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465829195/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T15:43:21.643243+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · AlfaPeople",
+    "status": "new"
+  },
+  {
+    "id": "9deba5025ffa7414",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465800854/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T15:43:21.643334+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · Steta&Malo",
+    "status": "new"
+  },
+  {
+    "id": "1815b3f8528d3504",
+    "title": "--------------------------------------------------------",
+    "company": "Web Project Manager (Remote, Guadalajara)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465825318/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T15:43:21.643427+00:00",
+    "snippet": "-------------------------------------------------------- · Web Project Manager (Remote, Guadalajara) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
     "id": "6dd514c7df734789",
     "title": "Junior Project Manager",
     "company": "SIARQ",
@@ -3836,71 +3901,6 @@
     ],
     "found_at": "2026-08-28T01:32:52.951670+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager – AI & Innovation · SGS",
-    "status": "new"
-  },
-  {
-    "id": "91cdfac565c1dd35",
-    "title": "Project Management Assistant",
-    "company": "Mosaic Conseil",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457924129/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-08-28T01:32:53.608236+00:00",
-    "snippet": "Project Management Assistant · Mosaic Conseil · Madrid",
-    "status": "new"
-  },
-  {
-    "id": "f71ba443f2795701",
-    "title": "Business Operations Manager",
-    "company": "Brello Health",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4432283222/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-28T01:32:54.673963+00:00",
-    "snippet": "Business Operations Manager · Brello Health · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "d6dcaa843367f2b5",
-    "title": "--------------------------------------------------------",
-    "company": "Technical Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4447304091/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:54.674065+00:00",
-    "snippet": "-------------------------------------------------------- · Technical Project Manager · Assurant",
-    "status": "new"
-  },
-  {
-    "id": "267e6e1c6498c919",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457277672/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:55.021674+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Virtustant",
-    "status": "new"
-  },
-  {
-    "id": "a12c3286749fe0d9",
-    "title": "--------------------------------------------------------",
-    "company": "Client Operations Specialist (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4445184643/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-28T01:32:55.021858+00:00",
-    "snippet": "-------------------------------------------------------- · Client Operations Specialist (Remote) · Edge Operations Managers",
     "status": "new"
   }
 ]
