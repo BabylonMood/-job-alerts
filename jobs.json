@@ -1,5 +1,70 @@
 [
   {
+    "id": "b76c0d120c6eeaa1",
+    "title": "Project Manager BESS",
+    "company": "Jobgether",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464811057/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T20:02:20.071710+00:00",
+    "snippet": "Project Manager BESS · Jobgether · España",
+    "status": "new"
+  },
+  {
+    "id": "ee422d2005eac831",
+    "title": "--------------------------------------------------------",
+    "company": "Global Operations Manager (English)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464878065/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-12T20:02:20.071805+00:00",
+    "snippet": "-------------------------------------------------------- · Global Operations Manager (English) – BPO · Jobgether",
+    "status": "new"
+  },
+  {
+    "id": "76407093af4d97fc",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager_Proyectos ciberseguridad (100% remoto)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465124738/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T20:02:20.071876+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager_Proyectos ciberseguridad (100% remoto) · knowmad mood",
+    "status": "new"
+  },
+  {
+    "id": "974e5f2faff5a684",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Media Analyst (Project Management)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4463948956/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-09-12T20:02:20.072042+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Media Analyst (Project Management) · Ebiquity plc",
+    "status": "new"
+  },
+  {
+    "id": "46febadc602a3949",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager Infraestructuras Workplace",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466320102/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-12T20:02:20.072108+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager Infraestructuras Workplace · GRUPO NS",
+    "status": "new"
+  },
+  {
     "id": "9e56c475770cac86",
     "title": "--------------------------------------------------------",
     "company": "Traffic & Project Manager",
@@ -3836,71 +3901,6 @@
     ],
     "found_at": "2026-08-28T13:28:55.562067+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "1af8d9178cf147b2",
-    "title": "Project Manager / Chef de projet digital (100% remote)",
-    "company": "Hover",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457993017/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:52.950773+00:00",
-    "snippet": "Project Manager / Chef de projet digital (100% remote) · Hover · Barcelona",
-    "status": "new"
-  },
-  {
-    "id": "b45d10b0d2796626",
-    "title": "--------------------------------------------------------",
-    "company": "Business Operations Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457670985/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-28T01:32:52.950882+00:00",
-    "snippet": "-------------------------------------------------------- · Business Operations Manager · Jobgether",
-    "status": "new"
-  },
-  {
-    "id": "f844405c1b38ead1",
-    "title": "--------------------------------------------------------",
-    "company": "Sr. Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457470926/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:52.950974+00:00",
-    "snippet": "-------------------------------------------------------- · Sr. Project Manager · Jobgether",
-    "status": "new"
-  },
-  {
-    "id": "65824d11a2fb387e",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Devops)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457926158/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:52.951570+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Devops) · Kairós Digital Solutions S.L.",
-    "status": "new"
-  },
-  {
-    "id": "aa4e63f1f79617e2",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457255973/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-28T01:32:52.951670+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager – AI & Innovation · SGS",
     "status": "new"
   }
 ]
