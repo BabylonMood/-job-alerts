@@ -1,5 +1,44 @@
 [
   {
+    "id": "e7ea09b8a556eaa8",
+    "title": "--------------------------------------------------------",
+    "company": "Account Manager Sr",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4463063520",
+    "matched_keywords": [
+      "account manager"
+    ],
+    "found_at": "2026-09-14T00:17:53.045955+00:00",
+    "snippet": "-------------------------------------------------------- · Account Manager Sr · GUATEQUE",
+    "status": "new"
+  },
+  {
+    "id": "8cb553df659493fe",
+    "title": "Associate Project Manager - Language Services - Linguistic Validation",
+    "company": "Thermo Fisher Scientific",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464272990/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-14T00:17:56.263907+00:00",
+    "snippet": "Associate Project Manager - Language Services - Linguistic Validation · Thermo Fisher Scientific · Argentina",
+    "status": "new"
+  },
+  {
+    "id": "73169ba3416f2e72",
+    "title": "--------------------------------------------------------",
+    "company": "Associate Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464292031/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-14T00:17:56.264101+00:00",
+    "snippet": "-------------------------------------------------------- · Associate Project Manager - Language Services - Linguistic Validation · Thermo Fisher Scientific",
+    "status": "new"
+  },
+  {
     "id": "71631bfc1a69aaeb",
     "title": "Empleos similares a Project Manager en Event Hawk https://www.linkedin.com/comm/jobs/view/4463518634?refId=REDACTED&trackingId=REDACTED&lipi=REDACTED&midToken=REDACTED&midSig=REDACTED&trk=REDACTED&trkEmail=REDACTED&eid=REDACTED&otpToken=REDACTED",
     "company": "Project Manager",
@@ -3862,45 +3901,6 @@
     ],
     "found_at": "2026-08-29T21:29:42.813500+00:00",
     "snippet": "Tu actualización de Maus Casa Creativa ---------------------------------------- Este email está dirigido a la candidata (Project Manager & Operations | Process Optimization) Averigua por qué incluimos esto: https://www.linkedin.com/help/linkedin/answer/4788?lang=es&lipi=REDACTED",
-    "status": "new"
-  },
-  {
-    "id": "0c21a6bdfdf35503",
-    "title": "PROJECT MANAGER JUNIOR",
-    "company": "Universia España",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4441530298",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-29T18:58:14.420134+00:00",
-    "snippet": "PROJECT MANAGER JUNIOR · Universia España · Barcelona, Cataluña, España",
-    "status": "new"
-  },
-  {
-    "id": "27e48f0b4994655d",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Spanish)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4449493367",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-29T18:58:14.420360+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Spanish) · Snowflake",
-    "status": "new"
-  },
-  {
-    "id": "3bdbfd34fa3d3ad5",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4453832471",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-29T18:58:14.420458+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager – LATAM · Matrix USA",
     "status": "new"
   }
 ]
