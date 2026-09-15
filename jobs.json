@@ -1,5 +1,57 @@
 [
   {
+    "id": "c567a66389ee982d",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467084904",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T20:19:45.499160+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · ProperExpression",
+    "status": "new"
+  },
+  {
+    "id": "914093f038b84f2b",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465495282/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-15T20:19:46.251611+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789315788-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4465208336,",
+    "status": "new"
+  },
+  {
+    "id": "f04dd6fd93bc13ff",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465215508/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-15T20:19:46.251822+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1789331032-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bjc",
+    "status": "new"
+  },
+  {
+    "id": "7d40081d15f8c859",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465218469/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T20:19:46.251912+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · CodeCrew",
+    "status": "new"
+  },
+  {
     "id": "e7e26e770834fc1d",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-08-31T00:58:02.823332+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · LanguageLine Solutions",
-    "status": "new"
-  },
-  {
-    "id": "1617ee28b5cdb114",
-    "title": "Operations Manager",
-    "company": "Ottomatik.io",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459488003/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-30T22:50:36.411256+00:00",
-    "snippet": "Operations Manager · Ottomatik.io · Mendoza y alrededores",
-    "status": "new"
-  },
-  {
-    "id": "482fd6dc8aa65d07",
-    "title": "--------------------------------------------------------",
-    "company": "Data Delivery Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459467398/",
-    "matched_keywords": [
-      "delivery manager"
-    ],
-    "found_at": "2026-08-30T22:50:36.411643+00:00",
-    "snippet": "-------------------------------------------------------- · Data Delivery Manager · EPAM Systems",
-    "status": "new"
-  },
-  {
-    "id": "d98e6dca6d01f3b5",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager (Oncology)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460567869/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-30T22:50:36.411739+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager (Oncology) · Premier Research",
-    "status": "new"
-  },
-  {
-    "id": "a10f07665b08a126",
-    "title": "--------------------------------------------------------",
-    "company": "Technical Delivery Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459476399/",
-    "matched_keywords": [
-      "delivery manager"
-    ],
-    "found_at": "2026-08-30T17:49:09.515017+00:00",
-    "snippet": "-------------------------------------------------------- · Technical Delivery Manager - AI-Native Transformation & Intelligent Engineering · EPAM Systems",
     "status": "new"
   }
 ]
