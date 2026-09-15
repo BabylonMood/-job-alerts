@@ -1,5 +1,70 @@
 [
   {
+    "id": "e7e26e770834fc1d",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465806323/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T17:26:13.178474+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Globaltize",
+    "status": "new"
+  },
+  {
+    "id": "18810471d493729b",
+    "title": "--------------------------------------------------------",
+    "company": "Promotional Assets Project Manager, Launch Operations",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4454118684/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T17:26:13.178748+00:00",
+    "snippet": "-------------------------------------------------------- · Promotional Assets Project Manager, Launch Operations · Netflix",
+    "status": "new"
+  },
+  {
+    "id": "e18ad5baf197913f",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465800367/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T17:26:15.090177+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · prompt couture",
+    "status": "new"
+  },
+  {
+    "id": "f07d0670af8b055a",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager (Card Payments)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4409923507/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-15T17:26:15.090369+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager (Card Payments) · Revolut",
+    "status": "new"
+  },
+  {
+    "id": "86306a6410c6ce7e",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4464752646/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-15T17:26:15.090570+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · E80 Group",
+    "status": "new"
+  },
+  {
     "id": "1e9b8c6716c4c3cd",
     "title": "--------------------------------------------------------",
     "company": "Coordinador de Proyectos",
@@ -3835,71 +3900,6 @@
     ],
     "found_at": "2026-08-30T17:49:09.515017+00:00",
     "snippet": "-------------------------------------------------------- · Technical Delivery Manager - AI-Native Transformation & Intelligent Engineering · EPAM Systems",
-    "status": "new"
-  },
-  {
-    "id": "2b589f896c581f14",
-    "title": "Strategy & Operations Manager",
-    "company": "Revolut",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4440788276/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-30T17:49:09.862880+00:00",
-    "snippet": "Strategy & Operations Manager · Revolut · España",
-    "status": "new"
-  },
-  {
-    "id": "598c64924d654adc",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (EU)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4448899530/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-30T17:49:09.862983+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (EU) · Parsec Automation, LLC",
-    "status": "new"
-  },
-  {
-    "id": "7062073bc1a3fc88",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4424399522/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-30T17:49:09.863073+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Worldwide Clinical Trials",
-    "status": "new"
-  },
-  {
-    "id": "f72c1e7430507141",
-    "title": "--------------------------------------------------------",
-    "company": "Senior / Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4433835559/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-30T17:49:09.863333+00:00",
-    "snippet": "-------------------------------------------------------- · Senior / Project Manager - Oncology - Europe - Remote · Worldwide Clinical Trials",
-    "status": "new"
-  },
-  {
-    "id": "0bca5abf0300ac1e",
-    "title": "Project Manager - CO",
-    "company": "WITHIN",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459442103/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-30T13:51:50.038955+00:00",
-    "snippet": "Project Manager - CO · WITHIN · Bogotá",
     "status": "new"
   }
 ]
