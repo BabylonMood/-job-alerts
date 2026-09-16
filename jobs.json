@@ -1,5 +1,70 @@
 [
   {
+    "id": "9d0416a1a1446a7e",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465589116/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-16T15:42:00.138797+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · CodeCrew",
+    "status": "new"
+  },
+  {
+    "id": "909d4f44acff1847",
+    "title": "--------------------------------------------------------",
+    "company": "(R) Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467297006/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-16T15:42:00.139015+00:00",
+    "snippet": "-------------------------------------------------------- · (R) Project Manager · Sanmina",
+    "status": "new"
+  },
+  {
+    "id": "1a634a966fa2dece",
+    "title": "--------------------------------------------------------",
+    "company": "Tecnico administrativo y de RRHH M/J",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467495318/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-16T15:42:00.587506+00:00",
+    "snippet": "-------------------------------------------------------- · Tecnico administrativo y de RRHH M/J · Wavyssa",
+    "status": "new"
+  },
+  {
+    "id": "fca18e33b2fab1e7",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466141289/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-16T15:42:00.587633+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789404092-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4466194642,",
+    "status": "new"
+  },
+  {
+    "id": "8a0c095c7048a73c",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465917044/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-16T15:42:00.587840+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789417840-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4466141289,4467495984&lipi=ur",
+    "status": "new"
+  },
+  {
     "id": "0de99e3c1926546f",
     "title": "--------------------------------------------------------",
     "company": "Associate Director",
@@ -3835,71 +3900,6 @@
     ],
     "found_at": "2026-08-31T00:58:02.822778+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager - E-Commerce - (Remote) · BlueTuskr",
-    "status": "new"
-  },
-  {
-    "id": "d9e61421f28fc17a",
-    "title": "--------------------------------------------------------",
-    "company": "Creative Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4455898683/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T00:58:02.822894+00:00",
-    "snippet": "-------------------------------------------------------- · Creative Project Manager · Designity",
-    "status": "new"
-  },
-  {
-    "id": "f133d7c54c3f6db1",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4458274014/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T00:58:02.822987+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Remote Leverage",
-    "status": "new"
-  },
-  {
-    "id": "ed74bda7e5aa338a",
-    "title": "--------------------------------------------------------",
-    "company": "PROJECT MANAGER",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4450300576/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T00:58:02.823075+00:00",
-    "snippet": "-------------------------------------------------------- · PROJECT MANAGER · Gonvarri Industries",
-    "status": "new"
-  },
-  {
-    "id": "096d9767c58c05d7",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4426981576/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T00:58:02.823160+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Caylent",
-    "status": "new"
-  },
-  {
-    "id": "240c6c3c1b586831",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4373668478/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T00:58:02.823246+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Turtle Trax S.A.",
     "status": "new"
   }
 ]
