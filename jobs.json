@@ -1,5 +1,44 @@
 [
   {
+    "id": "14557b5c676c4528",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466610297",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-17T22:17:57.148665+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · Virtustant",
+    "status": "new"
+  },
+  {
+    "id": "f3e4c8e663345f4f",
+    "title": "--------------------------------------------------------",
+    "company": "Gerente de Operaciones",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466244316",
+    "matched_keywords": [
+      "gerente de operaciones"
+    ],
+    "found_at": "2026-09-17T22:17:57.148771+00:00",
+    "snippet": "-------------------------------------------------------- · Gerente de Operaciones - Restaurante · Nuclea Consultora",
+    "status": "new"
+  },
+  {
+    "id": "0a755174eab3be7a",
+    "title": "--------------------------------------------------------",
+    "company": "Business Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4432283222",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-17T22:17:57.148944+00:00",
+    "snippet": "-------------------------------------------------------- · Business Operations Manager · Brello Health",
+    "status": "new"
+  },
+  {
     "id": "d0e7d13dbab2ec93",
     "title": "--------------------------------------------------------",
     "company": "Asistente Virtual | 100% Remoto | Pago en USD | Crecimiento | ZR734",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-01T17:29:24.594579+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager (Devops) · Kairós Digital Solutions S.L.",
-    "status": "new"
-  },
-  {
-    "id": "63485a88f72c8c26",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Finance)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461094454/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T17:29:24.594676+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "b6c37b2e11969b4f",
-    "title": "--------------------------------------------------------",
-    "company": "Technical Project Manager (MedTech SaaS)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461065467/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T17:29:24.594764+00:00",
-    "snippet": "-------------------------------------------------------- · Technical Project Manager (MedTech SaaS) · Legit.Health",
-    "status": "new"
-  },
-  {
-    "id": "4312a3a74e982e79",
-    "title": "--------------------------------------------------------",
-    "company": "Module Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460045349/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T17:29:24.594851+00:00",
-    "snippet": "-------------------------------------------------------- · Module Project Manager - R&D · Siemens Gamesa",
     "status": "new"
   }
 ]
