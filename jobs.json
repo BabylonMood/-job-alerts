@@ -1,5 +1,31 @@
 [
   {
+    "id": "12ad101cd8dfc619",
+    "title": "Se ha creado tu alerta de empleo: Marketing en América Latina.",
+    "company": "Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias.",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465278743",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-17T05:34:10.342506+00:00",
+    "snippet": "Se ha creado tu alerta de empleo: Marketing en América Latina. · Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias. · Marketing Project Manager",
+    "status": "new"
+  },
+  {
+    "id": "1c49d54b457206ce",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465282022",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-17T05:34:10.342664+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
+    "status": "new"
+  },
+  {
     "id": "cdd8cc1acc46fcf9",
     "title": "Empleos similares a Project Manager Junior Agencia en Los de Marketing https://www.linkedin.com/comm/jobs/view/4466364045?refId=REDACTED&trackingId=REDACTED&lipi=REDACTED&midToken=REDACTED&midSig=REDACTED&trk=REDACTED&trkEmail=REDACTED&eid=REDACTED&otpToken=REDACTED",
     "company": "Junior Project Manager",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-08-31T23:57:48.319071+00:00",
     "snippet": "-------------------------------------------------------- · Workforce Operations Manager · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "89bc0fcd85d34d76",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Argentina)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4405474591/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-08-31T23:57:48.319164+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Argentina) · Indero (formerly Innovaderm)",
-    "status": "new"
-  },
-  {
-    "id": "4a6e1f9e4c85fd43",
-    "title": "Operations Manager",
-    "company": "Hired",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461006568/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-08-31T23:57:49.107850+00:00",
-    "snippet": "Operations Manager · Hired · España",
     "status": "new"
   }
 ]
