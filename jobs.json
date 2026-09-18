@@ -1,5 +1,57 @@
 [
   {
+    "id": "8be75ea2c15f9f4f",
+    "title": "Project Manager",
+    "company": "83zero",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465972699/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-18T05:21:59.109148+00:00",
+    "snippet": "Project Manager · 83zero · España",
+    "status": "new"
+  },
+  {
+    "id": "6e0b9e932e097ad9",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager | Payroll Migrations",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457254096/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-18T05:21:59.109340+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager | Payroll Migrations · Deel",
+    "status": "new"
+  },
+  {
+    "id": "6e59bf46a4a732a4",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457699955/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-18T05:21:59.373264+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789488975-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4467965248,4467941053&lipi=ur",
+    "status": "new"
+  },
+  {
+    "id": "1fc22fe186c87ed3",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467954050/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-18T05:21:59.373360+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Nexaminds",
+    "status": "new"
+  },
+  {
     "id": "14557b5c676c4528",
     "title": "--------------------------------------------------------",
     "company": "Operations Manager",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-09-01T20:03:20.610210+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · icorp",
-    "status": "new"
-  },
-  {
-    "id": "9b126bd5f217756c",
-    "title": "--------------------------------------------------------",
-    "company": "Shop Project Manager LATAM",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461532122",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T20:03:20.610299+00:00",
-    "snippet": "-------------------------------------------------------- · Shop Project Manager LATAM · Flix",
-    "status": "new"
-  },
-  {
-    "id": "13c68ceae6843efc",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4413142076",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T20:03:20.610467+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · DC Global Talent Inc.",
-    "status": "new"
-  },
-  {
-    "id": "70dc57ef8e1be63f",
-    "title": "Strategic Project Manager (Remote)",
-    "company": "Hire Feed",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461202485/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T17:29:24.594459+00:00",
-    "snippet": "Strategic Project Manager (Remote) · Hire Feed · España",
-    "status": "new"
-  },
-  {
-    "id": "b9c337534ad86225",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Devops)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461068930/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-01T17:29:24.594579+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Devops) · Kairós Digital Solutions S.L.",
     "status": "new"
   }
 ]
