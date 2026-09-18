@@ -1,5 +1,44 @@
 [
   {
+    "id": "f72105acfffa8ee8",
+    "title": "Tu solicitud para el puesto de Project Manager",
+    "company": "Rooftop.dev",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/help/linkedin/answer/4788?lang=es",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-18T22:00:42.853249+00:00",
+    "snippet": "Tu actualización de Rooftop.dev ---------------------------------------- Este email está dirigido a Iara Carrero (Project Manager & Operations | Process Optimization) Averigua por qué incluimos esto: https://www.linkedin.com/help/linkedin/answer/4788?lang=es&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_a",
+    "status": "new"
+  },
+  {
+    "id": "d8f47bd7275f9a3d",
+    "title": "--------------------------------------------------------",
+    "company": "Program/Project Management Lead",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4457699922/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-09-18T22:00:45.286916+00:00",
+    "snippet": "-------------------------------------------------------- · Program/Project Management Lead · Accenture Colombia",
+    "status": "new"
+  },
+  {
+    "id": "0050811e724c69b2",
+    "title": "--------------------------------------------------------",
+    "company": "Head of Project Management",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468247462/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-09-18T22:00:45.286981+00:00",
+    "snippet": "-------------------------------------------------------- · Head of Project Management · Volvo Group",
+    "status": "new"
+  },
+  {
     "id": "50e9c0b00c7882d7",
     "title": "--------------------------------------------------------",
     "company": "Deputy Project Manager",
@@ -3862,45 +3901,6 @@
     ],
     "found_at": "2026-09-02T22:42:46.245735+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · icorp",
-    "status": "new"
-  },
-  {
-    "id": "2515ee751f567ca7",
-    "title": "--------------------------------------------------------",
-    "company": "Associate Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460505641/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-02T22:42:46.245800+00:00",
-    "snippet": "-------------------------------------------------------- · Associate Project Manager · Triple-S",
-    "status": "new"
-  },
-  {
-    "id": "37c26b413817d051",
-    "title": "Asistente Administrativo – Inglés Intermedio/Avanzado",
-    "company": "Reality Check Business Solutions, LLC",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459268309/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-02T20:13:23.635552+00:00",
-    "snippet": "Asistente Administrativo – Inglés Intermedio/Avanzado · Reality Check Business Solutions, LLC · Lima",
-    "status": "new"
-  },
-  {
-    "id": "5bc5cca305033b4e",
-    "title": "--------------------------------------------------------",
-    "company": "Asistente Ejecutivo",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460299316/",
-    "matched_keywords": [
-      "asistente ejecutivo"
-    ],
-    "found_at": "2026-09-02T20:13:23.635856+00:00",
-    "snippet": "-------------------------------------------------------- · Asistente Ejecutivo - Remote Work · BairesDev",
     "status": "new"
   }
 ]
