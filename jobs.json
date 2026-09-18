@@ -1,5 +1,57 @@
 [
   {
+    "id": "50e9c0b00c7882d7",
+    "title": "--------------------------------------------------------",
+    "company": "Deputy Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466238412/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-18T17:27:40.502594+00:00",
+    "snippet": "-------------------------------------------------------- · Deputy Project Manager · IEM",
+    "status": "new"
+  },
+  {
+    "id": "7a982ba0e412e39b",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager | LATAM",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466239695/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-18T17:27:40.848671+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager | LATAM · Deel",
+    "status": "new"
+  },
+  {
+    "id": "8058866c3914d8af",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466610297/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-18T17:27:40.848772+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · Virtustant",
+    "status": "new"
+  },
+  {
+    "id": "4fca031ea4d795df",
+    "title": "--------------------------------------------------------",
+    "company": "Strategy & Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468695269/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-18T17:27:40.848949+00:00",
+    "snippet": "-------------------------------------------------------- · Strategy & Operations Manager · Danone",
+    "status": "new"
+  },
+  {
     "id": "1ebe9d465509429f",
     "title": "Empleos similares a Project Manager en Alira Health https://www.linkedin.com/comm/jobs/view/4468205632?refId=d4GdY6XIQn%2BKkXbiXPuUMw%3D%3D&trackingId=S6SXzaJlQseRPK8XfgSJyg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BhC5qhRgZQ4%2BtaMX3dHa%2BSw%3D%3D&midToken=AQGJqg12Xe5rrg&midSig=2JbFj_CJj29Is1&trk=eml-email_jobs_viewed_job_reminder_01-null-0-null&trkEmail=eml-email_jobs_viewed_job_reminder_01-null-0-null-null-dvs4yl~mu6txzjf~zy-null-null&eid=dvs4yl-mu6txzjf-zy&otpToken=OWVlZjA4NGE2ZjdmODUzYWE4NTE3NWU0NDNhZjgxMTE5MDk4N2JkY2QxNTg5Mzc4NDQ2NjJjZjlhOWRkOWI0ZDgxOGRlMTYwZGU0MDRjZThhMzhiNjI5YTY3ODFhNTNjN2FiYTQwODdmMjkxZDAwOTVhN2JkM2NlNWE5NjhkM2Q3ZWQ4YTViYjA5MzZkYjVkLDIsMQ%3D%3D",
     "company": "Project Manager",
@@ -3849,58 +3901,6 @@
     ],
     "found_at": "2026-09-02T20:13:23.635856+00:00",
     "snippet": "-------------------------------------------------------- · Asistente Ejecutivo - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "b08713f9b1213d1b",
-    "title": "Operations Manager",
-    "company": "LBC Mortgage",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461787597/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-02T17:31:19.836061+00:00",
-    "snippet": "Operations Manager · LBC Mortgage · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "122639691313756b",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Finance)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461732513/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-02T17:31:19.836285+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "b94c12641e9c739d",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Technical Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462002156/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-02T17:31:19.836356+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Technical Project Manager · P3 Media - Shopify Platinum Agency",
-    "status": "new"
-  },
-  {
-    "id": "60e97289abb7f332",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4434730084/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-02T17:31:19.836425+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Ubuntu Embedded Systems · Canonical",
     "status": "new"
   }
 ]
