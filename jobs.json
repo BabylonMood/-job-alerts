@@ -1,5 +1,45 @@
 [
   {
+    "id": "6db3983a370d68cf",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4465243665/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-19T19:01:59.242774+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · Virtustant",
+    "status": "new"
+  },
+  {
+    "id": "8aaa0e2b8fa4b291",
+    "title": "Operations Manager",
+    "company": "BMG Virtual Partners",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466903439/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-19T19:01:59.621574+00:00",
+    "snippet": "Operations Manager · BMG Virtual Partners · México",
+    "status": "new"
+  },
+  {
+    "id": "ad4f6948bde9a0a6",
+    "title": "--------------------------------------------------------",
+    "company": "ANALISTA ADMINISTRATIVO",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466664071/",
+    "matched_keywords": [
+      "administrativo",
+      "analista administrativo"
+    ],
+    "found_at": "2026-09-19T19:01:59.621647+00:00",
+    "snippet": "-------------------------------------------------------- · ANALISTA ADMINISTRATIVO · Estafeta Mexicana",
+    "status": "new"
+  },
+  {
     "id": "55c90c2eaa662164",
     "title": "Program/Project Management Lead",
     "company": "Accenture Colombia",
@@ -3862,45 +3902,6 @@
     ],
     "found_at": "2026-09-03T05:17:17.017501+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager IT / Inglés B2+ o C1 · BRM S.A.S",
-    "status": "new"
-  },
-  {
-    "id": "671f4b53768322d7",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager SOL",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460298893/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:17.017683+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager SOL-1859 · Softgic",
-    "status": "new"
-  },
-  {
-    "id": "9de7a1e59b72db43",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461523138/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:17.017772+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Applaudo",
-    "status": "new"
-  },
-  {
-    "id": "243614cf14062c22",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461551963/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:17.017875+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager · Marsh Risk",
     "status": "new"
   }
 ]
