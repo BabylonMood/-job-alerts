@@ -1,5 +1,57 @@
 [
   {
+    "id": "800efab0e8c72b96",
+    "title": "Project Manager",
+    "company": "CodingIT",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4466908945/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-19T23:44:33.513357+00:00",
+    "snippet": "Project Manager · CodingIT · Argentina",
+    "status": "new"
+  },
+  {
+    "id": "40cb6db6bda455ee",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468006574/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-19T23:44:33.513437+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Digital Executive",
+    "status": "new"
+  },
+  {
+    "id": "932c2720763ac7fb",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469185998/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-19T23:44:33.513644+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Consultec-TI",
+    "status": "new"
+  },
+  {
+    "id": "02b1ed6bd1121750",
+    "title": "--------------------------------------------------------",
+    "company": "Global Customer Support Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467162920/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-19T23:44:33.860623+00:00",
+    "snippet": "-------------------------------------------------------- · Global Customer Support Project Manager · Hewlett Packard Enterprise",
+    "status": "new"
+  },
+  {
     "id": "6db3983a370d68cf",
     "title": "--------------------------------------------------------",
     "company": "Operations Manager",
@@ -3850,58 +3902,6 @@
     ],
     "found_at": "2026-09-03T05:17:16.212758+00:00",
     "snippet": "-------------------------------------------------------- · Senior Project Manager · TFS HealthScience",
-    "status": "new"
-  },
-  {
-    "id": "c2f0c579ef0fc78c",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager Cross CSOC",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4459533081/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:16.212867+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager Cross CSOC · Amaris Consulting",
-    "status": "new"
-  },
-  {
-    "id": "1c4a4d3edb67d006",
-    "title": "--------------------------------------------------------",
-    "company": "Senior PMO Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461717677/",
-    "matched_keywords": [
-      "pmo"
-    ],
-    "found_at": "2026-09-03T05:17:16.212961+00:00",
-    "snippet": "-------------------------------------------------------- · Senior PMO Manager - OP02236 · Dev.Pro",
-    "status": "new"
-  },
-  {
-    "id": "4bcc6190cb3f2cea",
-    "title": "Project Manager",
-    "company": "Más Empleo ANDI",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461544094/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:17.017389+00:00",
-    "snippet": "Project Manager · Más Empleo ANDI · Colombia",
-    "status": "new"
-  },
-  {
-    "id": "04f592753b67e614",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager IT / Inglés B2+ o C1",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461714833/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-03T05:17:17.017501+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager IT / Inglés B2+ o C1 · BRM S.A.S",
     "status": "new"
   }
 ]
