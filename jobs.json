@@ -1,5 +1,57 @@
 [
   {
+    "id": "f317c39825464568",
+    "title": "Auxiliar Administrativo",
+    "company": "Jobbol",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469220876/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-21T08:03:45.694112+00:00",
+    "snippet": "Auxiliar Administrativo · Jobbol · Fortaleza, CE",
+    "status": "new"
+  },
+  {
+    "id": "a5e18f1632caaaff",
+    "title": "Operations Manager",
+    "company": "crewlia",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469545809/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-21T08:03:46.126886+00:00",
+    "snippet": "Operations Manager · crewlia · España",
+    "status": "new"
+  },
+  {
+    "id": "26304c93bc9321c4",
+    "title": "Operations Manager",
+    "company": "crewlia",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469554569/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-21T08:03:47.592710+00:00",
+    "snippet": "Operations Manager · crewlia · Argentina",
+    "status": "new"
+  },
+  {
+    "id": "c2642a5f3b9abd2e",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager (eCOA Manager) remote in Argentina",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469534989/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-21T08:03:47.592841+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager (eCOA Manager) remote in Argentina · Syneos Health",
+    "status": "new"
+  },
+  {
     "id": "55c889d2a041d382",
     "title": "Program/Project Management Lead",
     "company": "Accenture Chile",
@@ -3847,58 +3899,6 @@
     ],
     "found_at": "2026-09-04T19:42:36.678234+00:00",
     "snippet": "-------------------------------------------------------- · Intermediate Project Manager - OP02174 · Dev.Pro",
-    "status": "new"
-  },
-  {
-    "id": "b2aaad1d89deac53",
-    "title": "Strategic Project Manager (Remote)",
-    "company": "Hire Feed",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462811428/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T17:14:16.724469+00:00",
-    "snippet": "Strategic Project Manager (Remote) · Hire Feed · España",
-    "status": "new"
-  },
-  {
-    "id": "1dc81f215e5fe799",
-    "title": "--------------------------------------------------------",
-    "company": "Associate Director, Project Management",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4443135411/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-09-04T17:14:16.724593+00:00",
-    "snippet": "-------------------------------------------------------- · Associate Director, Project Management - Oncology - Europe - Remote · Worldwide Clinical Trials",
-    "status": "new"
-  },
-  {
-    "id": "3a80903dcf7fb73d",
-    "title": "Digital Project Manager",
-    "company": "EPAM Systems",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461910656/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T17:14:17.176638+00:00",
-    "snippet": "Digital Project Manager · EPAM Systems · Colombia",
-    "status": "new"
-  },
-  {
-    "id": "6d24f89b326b7d0e",
-    "title": "--------------------------------------------------------",
-    "company": "Digital Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4461912693/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T17:14:17.176903+00:00",
-    "snippet": "-------------------------------------------------------- · Digital Project Manager · EPAM Systems",
     "status": "new"
   }
 ]
