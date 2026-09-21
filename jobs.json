@@ -1,5 +1,57 @@
 [
   {
+    "id": "2b7ef6a20847d0d9",
+    "title": "Clinical Operations Manager-Spain",
+    "company": "Indero (formerly Innovaderm)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4460894461/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-21T23:24:21.507206+00:00",
+    "snippet": "Clinical Operations Manager-Spain · Indero (formerly Innovaderm) · Valencia/València",
+    "status": "new"
+  },
+  {
+    "id": "434fa0743ed7caa7",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Project Manager, Data Center Expansion",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4424461973/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-21T23:24:21.507841+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Project Manager, Data Center Expansion – Spain · Verda",
+    "status": "new"
+  },
+  {
+    "id": "7e476dba006587be",
+    "title": "--------------------------------------------------------",
+    "company": "Asistente Virtual",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467306126/",
+    "matched_keywords": [
+      "asistente virtual"
+    ],
+    "found_at": "2026-09-21T23:24:21.962142+00:00",
+    "snippet": "-------------------------------------------------------- · Asistente Virtual · Global Advance",
+    "status": "new"
+  },
+  {
+    "id": "417eb20c89a64854",
+    "title": "--------------------------------------------------------",
+    "company": "Auxiliar Administrativo",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469596565/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-21T23:24:21.962415+00:00",
+    "snippet": "-------------------------------------------------------- · Auxiliar Administrativo - Trabalhe de casa · Empresa Confidencial",
+    "status": "new"
+  },
+  {
     "id": "68a5e73e4c7ad19e",
     "title": "Project Management Analyst",
     "company": "IQVIA",
@@ -3847,58 +3899,6 @@
     ],
     "found_at": "2026-09-04T23:31:02.962096+00:00",
     "snippet": "-------------------------------------------------------- · Website Project Manager (Remote, Puebla) · Blacksmith Agency",
-    "status": "new"
-  },
-  {
-    "id": "c66a9a439dae6c32",
-    "title": "--------------------------------------------------------",
-    "company": "Web Project Manager (Remote, Mexico City)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462709208/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T23:31:02.962153+00:00",
-    "snippet": "-------------------------------------------------------- · Web Project Manager (Remote, Mexico City) · Blacksmith Agency",
-    "status": "new"
-  },
-  {
-    "id": "93e93e2c5c601e87",
-    "title": "--------------------------------------------------------",
-    "company": "Agile Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4452475533/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T23:31:02.962207+00:00",
-    "snippet": "-------------------------------------------------------- · Agile Project Manager · Newtech S.R.L",
-    "status": "new"
-  },
-  {
-    "id": "acf5d45f53e533e0",
-    "title": "--------------------------------------------------------",
-    "company": "(R) Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462428193/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T23:31:02.962260+00:00",
-    "snippet": "-------------------------------------------------------- · (R) Project Manager · Sanmina",
-    "status": "new"
-  },
-  {
-    "id": "b0d201521df0015b",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager Jr",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462727953/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T23:31:02.962312+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager Jr · Deloitte",
     "status": "new"
   }
 ]
