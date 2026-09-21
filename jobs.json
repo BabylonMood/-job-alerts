@@ -1,5 +1,18 @@
 [
   {
+    "id": "9df91a9ee323b4a1",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Delivery Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468076728/",
+    "matched_keywords": [
+      "delivery manager"
+    ],
+    "found_at": "2026-09-21T15:11:36.713521+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Delivery Manager · One Call",
+    "status": "new"
+  },
+  {
     "id": "f317c39825464568",
     "title": "Auxiliar Administrativo",
     "company": "Jobbol",
@@ -3886,19 +3899,6 @@
     ],
     "found_at": "2026-09-04T19:42:36.678139+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "d09b962f723f388d",
-    "title": "--------------------------------------------------------",
-    "company": "Intermediate Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460476922/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T19:42:36.678234+00:00",
-    "snippet": "-------------------------------------------------------- · Intermediate Project Manager - OP02174 · Dev.Pro",
     "status": "new"
   }
 ]
