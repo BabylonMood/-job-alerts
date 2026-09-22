@@ -1,5 +1,57 @@
 [
   {
+    "id": "3134cb46fac6e7f0",
+    "title": "Marketing Project Manager",
+    "company": "ProperExpression",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467084904/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-22T17:05:47.081002+00:00",
+    "snippet": "Marketing Project Manager · ProperExpression · América Latina",
+    "status": "new"
+  },
+  {
+    "id": "ffa95f1475a30816",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468491172/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-22T17:05:47.081483+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager · Jobgether",
+    "status": "new"
+  },
+  {
+    "id": "50db9f55cb9dd86e",
+    "title": "Operations Manager",
+    "company": "Real Hires",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469242112/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-22T17:05:47.744739+00:00",
+    "snippet": "Operations Manager · Real Hires · América Latina",
+    "status": "new"
+  },
+  {
+    "id": "d22af90f02377190",
+    "title": "--------------------------------------------------------",
+    "company": "Líder de PMO | Sector IT",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469937449/",
+    "matched_keywords": [
+      "pmo"
+    ],
+    "found_at": "2026-09-22T17:05:47.745105+00:00",
+    "snippet": "-------------------------------------------------------- · Líder de PMO | Sector IT · Empresa Confidencial",
+    "status": "new"
+  },
+  {
     "id": "9261216980291fbb",
     "title": "--------------------------------------------------------",
     "company": "Public Cloud Project Manager",
@@ -3847,58 +3899,6 @@
     ],
     "found_at": "2026-09-05T06:27:01.553402+00:00",
     "snippet": "Strategic Project Manager (Remote) · Hire Feed · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "1e0412ff3ad948d8",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager, Laboratory",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4441217597/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T06:27:01.553595+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager, Laboratory · ICON Strategic Solutions",
-    "status": "new"
-  },
-  {
-    "id": "6606c474cd481e10",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Finance)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462811507/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T06:27:01.553688+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "bbf0f4406ba5f445",
-    "title": "--------------------------------------------------------",
-    "company": "Junior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4434726254/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T06:27:01.553794+00:00",
-    "snippet": "-------------------------------------------------------- · Junior Project Manager · Canonical",
-    "status": "new"
-  },
-  {
-    "id": "3ee01e7c209c2d8e",
-    "title": "Project Manager",
-    "company": "Go! Marketing",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462477763/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-04T23:31:02.962021+00:00",
-    "snippet": "Project Manager · Go! Marketing · Costa Rica",
     "status": "new"
   }
 ]
