@@ -1,5 +1,45 @@
 [
   {
+    "id": "3dd6606af8526cc8",
+    "title": "E-commerce & PR Operations Manager",
+    "company": "Parisa Wang",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468014363/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-22T23:03:23.960048+00:00",
+    "snippet": "E-commerce & PR Operations Manager · Parisa Wang · Provincia de Buenos Aires, Argentina",
+    "status": "new"
+  },
+  {
+    "id": "b7fd8648df9ac4de",
+    "title": "--------------------------------------------------------",
+    "company": "Account Manager at Email Marketing Agency",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468770350/",
+    "matched_keywords": [
+      "marketing agency",
+      "account manager"
+    ],
+    "found_at": "2026-09-22T23:03:24.337259+00:00",
+    "snippet": "-------------------------------------------------------- · Account Manager at Email Marketing Agency · Dispatch",
+    "status": "new"
+  },
+  {
+    "id": "0ab9fd60cb6813b6",
+    "title": "Asistente Virtual | 100% Remoto | Pago en USD | Crecimiento | ZR734",
+    "company": "Elevate Teams",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467282092/",
+    "matched_keywords": [
+      "asistente virtual"
+    ],
+    "found_at": "2026-09-22T23:03:24.712045+00:00",
+    "snippet": "Asistente Virtual | 100% Remoto | Pago en USD | Crecimiento | ZR734 · Elevate Teams · América Latina",
+    "status": "new"
+  },
+  {
     "id": "0a5446b524320cee",
     "title": "--------------------------------------------------------",
     "company": "Trainee de PMO",
@@ -3860,45 +3900,6 @@
     ],
     "found_at": "2026-09-05T18:26:41.261863+00:00",
     "snippet": "Project Manager · Praia · Torrecilla sobre Alesanco",
-    "status": "new"
-  },
-  {
-    "id": "395f3648015c69a6",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463367448/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T18:26:41.261974+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
-    "status": "new"
-  },
-  {
-    "id": "f17f477804794480",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462302134/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T18:26:41.262257+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "f7072e8bf2a2d5a3",
-    "title": "Web Project Manager",
-    "company": "Höski",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460710894/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T16:21:41.509206+00:00",
-    "snippet": "Web Project Manager · Höski · Lima",
     "status": "new"
   }
 ]
