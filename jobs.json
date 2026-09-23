@@ -1,5 +1,31 @@
 [
   {
+    "id": "45d9fa90927b8dd0",
+    "title": "Marketing Operations Manager",
+    "company": "License & Scale",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469985277/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-09-23T23:16:47.443118+00:00",
+    "snippet": "Marketing Operations Manager · License & Scale · Colombia",
+    "status": "new"
+  },
+  {
+    "id": "ab1151fbe56be381",
+    "title": "--------------------------------------------------------",
+    "company": "Global Sr Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470296810/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-23T23:16:47.443206+00:00",
+    "snippet": "-------------------------------------------------------- · Global Sr Project Manager - FSP (Open) · Thermo Fisher Scientific",
+    "status": "new"
+  },
+  {
     "id": "a49ede27a5d14078",
     "title": "--------------------------------------------------------",
     "company": "Web Project Manager (Intern / Junior)",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-07T06:15:24.880787+00:00",
     "snippet": "-------------------------------------------------------- · Operations Manager (Product) · Revolut",
-    "status": "new"
-  },
-  {
-    "id": "692cd4c605b5429a",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Finance)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463740620/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T06:15:24.880883+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "0222549ef26fb584",
-    "title": "Project Manager",
-    "company": "KONE",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463624212/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-06T23:19:09.372267+00:00",
-    "snippet": "Project Manager · KONE · Nonoalco, MEX",
     "status": "new"
   }
 ]
