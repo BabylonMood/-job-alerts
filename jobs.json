@@ -1,5 +1,31 @@
 [
   {
+    "id": "8aca13ba5276b3c0",
+    "title": "Especialista administrativo",
+    "company": "GTSUNIVERSAL|GENSEA GROUP",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469837928/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-23T01:34:12.324765+00:00",
+    "snippet": "Especialista administrativo · GTSUNIVERSAL|GENSEA GROUP · Madrid",
+    "status": "new"
+  },
+  {
+    "id": "048a70ce553a2f0a",
+    "title": "--------------------------------------------------------",
+    "company": "Administrativo/a de Gestión de Recambios (100% Teletrabajo)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4467633107/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-23T01:34:12.325084+00:00",
+    "snippet": "-------------------------------------------------------- · Administrativo/a de Gestión de Recambios (100% Teletrabajo) · BETWEEN Group",
+    "status": "new"
+  },
+  {
     "id": "3dd6606af8526cc8",
     "title": "E-commerce & PR Operations Manager",
     "company": "Parisa Wang",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-06T00:03:42.633876+00:00",
     "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
-    "status": "new"
-  },
-  {
-    "id": "4de8a05e61e4bc38",
-    "title": "--------------------------------------------------------",
-    "company": "Payments Product Head",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4436197532/",
-    "matched_keywords": [
-      "pmo"
-    ],
-    "found_at": "2026-09-05T22:26:31.871093+00:00",
-    "snippet": "-------------------------------------------------------- · Payments Product Head - Executive Director - Andean, Central American & Caribbean (ACAC) · JPMorganChase",
-    "status": "new"
-  },
-  {
-    "id": "ce7476a13ea10f8b",
-    "title": "Project Manager",
-    "company": "Praia",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463389136/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-05T18:26:41.261863+00:00",
-    "snippet": "Project Manager · Praia · Torrecilla sobre Alesanco",
     "status": "new"
   }
 ]
