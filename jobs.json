@@ -1,5 +1,18 @@
 [
   {
+    "id": "ced77ea40efc7ac7",
+    "title": "Un nuevo empleo coincide con tus preferencias.",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469967447/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-23T06:53:13.478498+00:00",
+    "snippet": "Un nuevo empleo coincide con tus preferencias. · Project Manager · Orion Innovation",
+    "status": "new"
+  },
+  {
     "id": "8aca13ba5276b3c0",
     "title": "Especialista administrativo",
     "company": "GTSUNIVERSAL|GENSEA GROUP",
@@ -3887,19 +3900,6 @@
     ],
     "found_at": "2026-09-06T00:03:42.633783+00:00",
     "snippet": "-------------------------------------------------------- · Delivery Manager · EPAM Systems",
-    "status": "new"
-  },
-  {
-    "id": "36169612b638fdc3",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463359986/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-06T00:03:42.633876+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
     "status": "new"
   }
 ]
