@@ -1,5 +1,18 @@
 [
   {
+    "id": "8ee2216e6dfd7af6",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470694717/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-24T20:35:22.294428+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1790108266-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B3P",
+    "status": "new"
+  },
+  {
     "id": "9b442163d18cdce2",
     "title": "--------------------------------------------------------",
     "company": "Product Operations Manager, Payroll (LATAM)",
@@ -3887,19 +3900,6 @@
     ],
     "found_at": "2026-09-07T06:15:24.520217+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager, Lifecycle & CRM · Ryz Labs",
-    "status": "new"
-  },
-  {
-    "id": "333074512c129350",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Finance)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463763047/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T06:15:24.520424+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
     "status": "new"
   }
 ]
