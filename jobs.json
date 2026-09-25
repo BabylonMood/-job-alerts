@@ -1,5 +1,31 @@
 [
   {
+    "id": "37270050ed017020",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470980599/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-25T13:58:00.257680+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790195785-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4470025134,",
+    "status": "new"
+  },
+  {
+    "id": "30d5f260cd0c2ff6",
+    "title": "--------------------------------------------------------",
+    "company": "Assistant Account Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470038334/",
+    "matched_keywords": [
+      "account manager"
+    ],
+    "found_at": "2026-09-25T13:58:00.257921+00:00",
+    "snippet": "-------------------------------------------------------- · Assistant Account Manager · Stayd Collective",
+    "status": "new"
+  },
+  {
     "id": "e72ce1153e6e49af",
     "title": "--------------------------------------------------------",
     "company": "IT OPS Project Manager (Remoto)",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-07T17:58:52.163097+00:00",
     "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
-    "status": "new"
-  },
-  {
-    "id": "304491203b04772c",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462683192/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T17:58:52.163177+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
-    "status": "new"
-  },
-  {
-    "id": "ccc042584518c8c1",
-    "title": "Strategic Project Manager (Remote)",
-    "company": "Hire Feed",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463740882/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T06:15:24.520103+00:00",
-    "snippet": "Strategic Project Manager (Remote) · Hire Feed · Argentina",
     "status": "new"
   }
 ]
