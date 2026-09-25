@@ -1,5 +1,44 @@
 [
   {
+    "id": "d4476393353ef10b",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4443572865/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-25T21:41:57.800427+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790180342-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4471412854&",
+    "status": "new"
+  },
+  {
+    "id": "8809fc5015938eac",
+    "title": "--------------------------------------------------------",
+    "company": "Trainee Administrativo",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469632015/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-25T21:41:57.800494+00:00",
+    "snippet": "-------------------------------------------------------- · Trainee Administrativo · Dialogus Consultores",
+    "status": "new"
+  },
+  {
+    "id": "88579a60623d528a",
+    "title": "--------------------------------------------------------",
+    "company": "Gerente de Operaciones de Pagos (Billetera digital)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469763537/",
+    "matched_keywords": [
+      "gerente de operaciones"
+    ],
+    "found_at": "2026-09-25T21:41:58.164928+00:00",
+    "snippet": "-------------------------------------------------------- · Gerente de Operaciones de Pagos (Billetera digital) · Alianza Estrategica",
+    "status": "new"
+  },
+  {
     "id": "1410bb2ef3c221a8",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-07T23:36:59.450360+00:00",
     "snippet": "-------------------------------------------------------- · Global Project Manager - FSP · Thermo Fisher Scientific",
-    "status": "new"
-  },
-  {
-    "id": "999aa40760d0b78e",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462680230/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T21:08:23.721300+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
-    "status": "new"
-  },
-  {
-    "id": "0f3261d8a2c5ac46",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462673260/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T21:08:23.721409+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
-    "status": "new"
-  },
-  {
-    "id": "52fc622c6c0e28d9",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4315767202/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T21:08:23.721670+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Publicis Groupe",
     "status": "new"
   }
 ]
