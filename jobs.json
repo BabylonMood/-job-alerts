@@ -1,5 +1,31 @@
 [
   {
+    "id": "1410bb2ef3c221a8",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471669673/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-25T18:12:27.618191+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - Telecom Services · Vivant",
+    "status": "new"
+  },
+  {
+    "id": "92d8eedab55eb9d1",
+    "title": "--------------------------------------------------------",
+    "company": "Delivery Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471140860/",
+    "matched_keywords": [
+      "delivery manager"
+    ],
+    "found_at": "2026-09-25T18:12:27.618411+00:00",
+    "snippet": "-------------------------------------------------------- · Delivery Manager · Svitla Systems, Inc.",
+    "status": "new"
+  },
+  {
     "id": "37270050ed017020",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-07T21:08:23.721670+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · Publicis Groupe",
-    "status": "new"
-  },
-  {
-    "id": "8d13cc7ce743699b",
-    "title": "Project Manager",
-    "company": "Caylent",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4426982553/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T17:58:52.162996+00:00",
-    "snippet": "Project Manager · Caylent · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "f1f76635791aa3cd",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464026768/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-07T17:58:52.163097+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
     "status": "new"
   }
 ]
