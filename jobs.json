@@ -1,5 +1,57 @@
 [
   {
+    "id": "c86ec88771ba9d7d",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470176623/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-26T23:00:03.750121+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790267117-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4470152087,",
+    "status": "new"
+  },
+  {
+    "id": "ce8bb08edc57b006",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4469944368/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-26T23:00:03.750341+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1790285535-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BJU",
+    "status": "new"
+  },
+  {
+    "id": "ef35744f7ab63c86",
+    "title": "--------------------------------------------------------",
+    "company": "Director(a) de Ingeniería y Gestión de Proyectos",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4470320691/",
+    "matched_keywords": [
+      "gestion de proyectos"
+    ],
+    "found_at": "2026-09-26T23:00:04.122061+00:00",
+    "snippet": "-------------------------------------------------------- · Director(a) de Ingeniería y Gestión de Proyectos · Nutresa",
+    "status": "new"
+  },
+  {
+    "id": "56481206345d3482",
+    "title": "--------------------------------------------------------",
+    "company": "Search Engine Optimization Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471626487/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-26T23:00:04.122373+00:00",
+    "snippet": "-------------------------------------------------------- · Search Engine Optimization Project Manager · Search for Hire",
+    "status": "new"
+  },
+  {
     "id": "6672d9c86997687b",
     "title": "--------------------------------------------------------",
     "company": "Document & Business Solutions",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-09-08T21:56:30.052769+00:00",
     "snippet": "-------------------------------------------------------- · Lead Project Manager · GE Vernova",
-    "status": "new"
-  },
-  {
-    "id": "a5ff20843619bb94",
-    "title": "--------------------------------------------------------",
-    "company": "Ver todos los empleos: https://www.linkedin.com/comm/jobs/search",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4444463597/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-08T19:05:03.901629+00:00",
-    "snippet": "-------------------------------------------------------- · Ver todos los empleos: https://www.linkedin.com/comm/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=r2592000&f_SAL=f_SA_id_230001%3A293007&geoId=91000011&refId=qw8fQc2NbHfo574xGazO0g%3D%3D&origin=FACET_SUGGESTIONS_COMMS_",
-    "status": "new"
-  },
-  {
-    "id": "fb989d5167567e9b",
-    "title": "Project Manager",
-    "company": "WPP Production",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4429944506/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-08T19:05:04.450925+00:00",
-    "snippet": "Project Manager · WPP Production · Montevideo",
-    "status": "new"
-  },
-  {
-    "id": "dd0158f4375e8764",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464080683/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-08T19:05:04.451114+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Elevance Health",
-    "status": "new"
-  },
-  {
-    "id": "5592f1141c0982cb",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4426982553/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-08T19:05:04.451385+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Caylent",
     "status": "new"
   }
 ]
