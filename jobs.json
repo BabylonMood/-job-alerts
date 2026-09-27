@@ -1,5 +1,18 @@
 [
   {
+    "id": "6af382092ac77bcf",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471066328/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-27T20:14:54.688928+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790368141-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4471066328,4471055749&lipi=ur",
+    "status": "new"
+  },
+  {
     "id": "65c35ee4ff417888",
     "title": "--------------------------------------------------------",
     "company": "Technical Project Manager (BUSY Bar)",
@@ -3887,19 +3900,6 @@
     ],
     "found_at": "2026-09-09T06:57:32.968255+00:00",
     "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "b446693ec644cc8f",
-    "title": "Strategy & Operations Manager - Partnerships",
-    "company": "n8n",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464393045/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-08T23:46:00.792656+00:00",
-    "snippet": "Strategy & Operations Manager - Partnerships · n8n · España",
     "status": "new"
   }
 ]
