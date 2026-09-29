@@ -1,5 +1,18 @@
 [
   {
+    "id": "c3e148b0e94f3572",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4439664339/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-09-29T23:48:17.322443+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790541056-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4471394568,4450103018&lipi=ur",
+    "status": "new"
+  },
+  {
     "id": "16060d78203e51ec",
     "title": "--------------------------------------------------------",
     "company": "Coordinador de operaciones (ing industrial)",
@@ -3887,19 +3900,6 @@
     ],
     "found_at": "2026-09-10T00:21:33.692453+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager (Media & Digital Campaigns) · Critical Mass",
-    "status": "new"
-  },
-  {
-    "id": "4bc7dffe52c5ef5f",
-    "title": "--------------------------------------------------------",
-    "company": "Junior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463216016/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T00:21:33.692571+00:00",
-    "snippet": "-------------------------------------------------------- · Junior Project Manager · NJTECHLAND LLC",
     "status": "new"
   }
 ]
