@@ -1,5 +1,57 @@
 [
   {
+    "id": "16060d78203e51ec",
+    "title": "--------------------------------------------------------",
+    "company": "Coordinador de operaciones (ing industrial)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471384497/",
+    "matched_keywords": [
+      "coordinador de operaciones"
+    ],
+    "found_at": "2026-09-29T20:03:26.926449+00:00",
+    "snippet": "-------------------------------------------------------- · Coordinador de operaciones (ing industrial) · Consultora Rhatios",
+    "status": "new"
+  },
+  {
+    "id": "66ce972cd85e63e4",
+    "title": "Project Manager",
+    "company": "Publicis Groupe",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4315767202/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-29T20:03:27.311548+00:00",
+    "snippet": "Project Manager · Publicis Groupe · Bogotá",
+    "status": "new"
+  },
+  {
+    "id": "10ac2e1a3f847501",
+    "title": "--------------------------------------------------------",
+    "company": "Market Research Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472749173/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-29T20:03:27.311829+00:00",
+    "snippet": "-------------------------------------------------------- · Market Research Project Manager - Americas · RONIN International",
+    "status": "new"
+  },
+  {
+    "id": "9e5292edbdd018b5",
+    "title": "--------------------------------------------------------",
+    "company": "Technical Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472789533/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-29T20:03:27.311921+00:00",
+    "snippet": "-------------------------------------------------------- · Technical Project Manager · CG Constructora",
+    "status": "new"
+  },
+  {
     "id": "285c346cd70c6da4",
     "title": "--------------------------------------------------------",
     "company": "Gerente de Operaciones de Proyectos de Construcción ( Multiples Proyectos)",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-09-10T00:21:33.692571+00:00",
     "snippet": "-------------------------------------------------------- · Junior Project Manager · NJTECHLAND LLC",
-    "status": "new"
-  },
-  {
-    "id": "6960840461199d92",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464441765/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T00:21:33.692672+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Flix",
-    "status": "new"
-  },
-  {
-    "id": "ef828d4023f043cc",
-    "title": "--------------------------------------------------------",
-    "company": "Administrativo JR",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463544507/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-10T00:21:34.105348+00:00",
-    "snippet": "-------------------------------------------------------- · Administrativo JR · Universia México",
-    "status": "new"
-  },
-  {
-    "id": "70b86675d4c0ed1d",
-    "title": "--------------------------------------------------------",
-    "company": "DTC eCommerce Operations Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463267244/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-09T19:32:58.293584+00:00",
-    "snippet": "-------------------------------------------------------- · DTC eCommerce Operations Manager · Jobgether",
-    "status": "new"
-  },
-  {
-    "id": "255d082eaf818c7b",
-    "title": "Project Manager",
-    "company": "Event Hawk",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463518634/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-09T16:47:12.727195+00:00",
-    "snippet": "Project Manager · Event Hawk · Argentina",
     "status": "new"
   }
 ]
