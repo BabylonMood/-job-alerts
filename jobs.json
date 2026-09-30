@@ -1,5 +1,44 @@
 [
   {
+    "id": "a6e125c16be4e2e5",
+    "title": "--------------------------------------------------------",
+    "company": "Creative Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471214680/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-30T20:36:21.012443+00:00",
+    "snippet": "-------------------------------------------------------- · Creative Project Manager · WITHIN",
+    "status": "new"
+  },
+  {
+    "id": "61c57c6396ffd125",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473278537/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-30T20:36:21.012617+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - SaaS Colombia/México · SAMY Latam",
+    "status": "new"
+  },
+  {
+    "id": "e9fb4434db13f2c8",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471262590/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-09-30T20:36:21.012758+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - Building Solutions · Michael Page",
+    "status": "new"
+  },
+  {
     "id": "c3e148b0e94f3572",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-10T04:57:21.339986+00:00",
     "snippet": "-------------------------------------------------------- · Implementation Project Manager- IPM 1 · Sutherland",
-    "status": "new"
-  },
-  {
-    "id": "56188caf835cac5b",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager Junior",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464360993/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T00:21:33.685125+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager Junior · LUDICA STUDIO CR",
-    "status": "new"
-  },
-  {
-    "id": "4ee701090227d11a",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager Junior",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460684807/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T00:21:33.692328+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager Junior · Universia Perú",
-    "status": "new"
-  },
-  {
-    "id": "bf2f82886efd4ce1",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Media & Digital Campaigns)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464406187/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T00:21:33.692453+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Media & Digital Campaigns) · Critical Mass",
     "status": "new"
   }
 ]
