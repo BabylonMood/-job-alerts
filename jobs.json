@@ -1,5 +1,70 @@
 [
   {
+    "id": "f99910e83600504e",
+    "title": "Un nuevo empleo coincide con tus preferencias.",
+    "company": "Senior Director, Project Management",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471941242/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-10-01T00:13:44.139724+00:00",
+    "snippet": "Un nuevo empleo coincide con tus preferencias. · Senior Director, Project Management - Rheumatology (Europe) · Worldwide Clinical Trials",
+    "status": "new"
+  },
+  {
+    "id": "5b8c550caa252262",
+    "title": "Operations Manager",
+    "company": "Maisa",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471598991/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-01T00:13:44.445716+00:00",
+    "snippet": "Operations Manager · Maisa · Barcelona",
+    "status": "new"
+  },
+  {
+    "id": "6ddead0c814202b9",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471905734/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-01T00:13:44.445826+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · Maisa",
+    "status": "new"
+  },
+  {
+    "id": "ae0ef7feb2a7b849",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473214795/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-01T00:13:44.446022+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Diverger",
+    "status": "new"
+  },
+  {
+    "id": "29f387a3a3412ee1",
+    "title": "--------------------------------------------------------",
+    "company": "Delivery Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471276769/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-01T00:13:44.446205+00:00",
+    "snippet": "-------------------------------------------------------- · Delivery Operations Manager - Token Factory · Jobgether",
+    "status": "new"
+  },
+  {
     "id": "a6e125c16be4e2e5",
     "title": "--------------------------------------------------------",
     "company": "Creative Project Manager",
@@ -3835,71 +3900,6 @@
     ],
     "found_at": "2026-09-10T04:57:21.018864+00:00",
     "snippet": "Se ha creado tu alerta de empleo: Gestor De Proyectos De Marketing en Argentina. · Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias. · Project Manager",
-    "status": "new"
-  },
-  {
-    "id": "587fa0980bf9795f",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463662654",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T04:57:21.019027+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · Ryz Labs",
-    "status": "new"
-  },
-  {
-    "id": "578530251e1661c4",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4462683192",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T04:57:21.019210+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · TopFoxx",
-    "status": "new"
-  },
-  {
-    "id": "3eae426648f3f8df",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463162545",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T04:57:21.019299+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · WPP Production",
-    "status": "new"
-  },
-  {
-    "id": "c75b8dd633323d8a",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Operations Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463295966",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-10T04:57:21.019389+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Operations Manager · GlobalLogic",
-    "status": "new"
-  },
-  {
-    "id": "c99a19df70fc9274",
-    "title": "--------------------------------------------------------",
-    "company": "Implementation Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463601467/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T04:57:21.339986+00:00",
-    "snippet": "-------------------------------------------------------- · Implementation Project Manager- IPM 1 · Sutherland",
     "status": "new"
   }
 ]
