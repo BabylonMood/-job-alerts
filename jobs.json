@@ -1,5 +1,18 @@
 [
   {
+    "id": "ee421423e4b0cb56",
+    "title": "Project Manager",
+    "company": "Patagonia Digital",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4471735546/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-01T13:35:26.679153+00:00",
+    "snippet": "Project Manager · Patagonia Digital · Rosario y alrededores",
+    "status": "new"
+  },
+  {
     "id": "ba187754f2c76a50",
     "title": "--------------------------------------------------------",
     "company": "Trainee de Gestión de Proyectos",
@@ -3887,19 +3900,6 @@
     ],
     "found_at": "2026-09-10T13:42:53.700280+00:00",
     "snippet": "-------------------------------------------------------- · Coordinador de Operaciones y proyectos comerciales · TIENS",
-    "status": "new"
-  },
-  {
-    "id": "7e2dfe781c4cd98b",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465070771/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-10T13:42:53.700352+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Job Duck",
     "status": "new"
   }
 ]
