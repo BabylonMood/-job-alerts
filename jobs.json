@@ -1,5 +1,31 @@
 [
   {
+    "id": "99142997eba1d588",
+    "title": "--------------------------------------------------------",
+    "company": "Project Management Director",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472333550/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-10-02T20:00:06.469438+00:00",
+    "snippet": "-------------------------------------------------------- · Project Management Director · Sulzer",
+    "status": "new"
+  },
+  {
+    "id": "4db10e452635ade2",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager Junior",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472625834/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-02T20:00:06.470025+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager Junior · Ripley Chile",
+    "status": "new"
+  },
+  {
     "id": "4d623553355c4709",
     "title": "--------------------------------------------------------",
     "company": "Operations / Project Manager",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-11T17:23:54.085779+00:00",
     "snippet": "-------------------------------------------------------- · Strategic Project Manager (Finance) - Remote · Quik Hire Staffing",
-    "status": "new"
-  },
-  {
-    "id": "47781d4a080008ae",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464591629/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:54.085856+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "48ff8dd47fd6143b",
-    "title": "--------------------------------------------------------",
-    "company": "(Sr) Clinical Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463456079/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:54.085933+00:00",
-    "snippet": "-------------------------------------------------------- · (Sr) Clinical Project Manager - Talent Pool · Thermo Fisher Scientific",
     "status": "new"
   }
 ]
