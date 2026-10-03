@@ -1,5 +1,44 @@
 [
   {
+    "id": "c847b7dfd04f2343",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472964071/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-03T18:04:20.614878+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790871543-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4474510085&",
+    "status": "new"
+  },
+  {
+    "id": "64d74d836aa05153",
+    "title": "--------------------------------------------------------",
+    "company": "Associate Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4474547734/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-03T18:04:20.615173+00:00",
+    "snippet": "-------------------------------------------------------- · Associate Project Manager · Syneos Health",
+    "status": "new"
+  },
+  {
+    "id": "8b66c777b4227681",
+    "title": "--------------------------------------------------------",
+    "company": "Gerente de operaciones",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4474561762/",
+    "matched_keywords": [
+      "gerente de operaciones"
+    ],
+    "found_at": "2026-10-03T18:04:20.967914+00:00",
+    "snippet": "-------------------------------------------------------- · Gerente de operaciones - Industria Alimenticia · Linkup",
+    "status": "new"
+  },
+  {
     "id": "d5dd0f3c3a5b2f68",
     "title": "--------------------------------------------------------",
     "company": "Remote Assistant Project Manager",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-11T17:23:53.613202+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "a2bbb1e05f71290d",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465692368/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:53.613284+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
-    "status": "new"
-  },
-  {
-    "id": "04f449c50216bf7f",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (card payment field)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465679292/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:53.613448+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (card payment field) · TechBiz Global",
-    "status": "new"
-  },
-  {
-    "id": "811395b788e96128",
-    "title": "Strategic Project Manager (Remote)",
-    "company": "Hire Feed",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465696594/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:54.085587+00:00",
-    "snippet": "Strategic Project Manager (Remote) · Hire Feed · Argentina",
     "status": "new"
   }
 ]
