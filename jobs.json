@@ -1,5 +1,44 @@
 [
   {
+    "id": "a6ba120b50df2803",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager (Corporate Services)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473168640/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T00:12:22.591516+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager (Corporate Services) · True Sea Moss",
+    "status": "new"
+  },
+  {
+    "id": "25f8536c9d228e64",
+    "title": "--------------------------------------------------------",
+    "company": "Transformation Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473163543/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T00:12:22.591628+00:00",
+    "snippet": "-------------------------------------------------------- · Transformation Project Manager · Telpark",
+    "status": "new"
+  },
+  {
+    "id": "4b8c25eba00d8604",
+    "title": "--------------------------------------------------------",
+    "company": "Consultor de Procesos",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4463912136/",
+    "matched_keywords": [
+      "pmo"
+    ],
+    "found_at": "2026-10-04T00:12:22.591724+00:00",
+    "snippet": "-------------------------------------------------------- · Consultor de Procesos - PMO · Aubay Spain",
+    "status": "new"
+  },
+  {
     "id": "c847b7dfd04f2343",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-12T00:24:25.459041+00:00",
     "snippet": "Coordinador(a) Administrativo(a) · CBO Accounting & Advisory Services · Quito",
-    "status": "new"
-  },
-  {
-    "id": "f50d20b058302aae",
-    "title": "Administrativo/a – Sector Deportivo",
-    "company": "Impulsyn",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464186472/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-11T19:52:45.811241+00:00",
-    "snippet": "Administrativo/a – Sector Deportivo · Impulsyn · España",
-    "status": "new"
-  },
-  {
-    "id": "c5550a5c3c9d702f",
-    "title": "Project Manager - Remote Work",
-    "company": "BairesDev",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464122811/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:53.613097+00:00",
-    "snippet": "Project Manager - Remote Work · BairesDev · Bogotá",
-    "status": "new"
-  },
-  {
-    "id": "e58a7b20962a9792",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464113912/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-11T17:23:53.613202+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
     "status": "new"
   }
 ]
