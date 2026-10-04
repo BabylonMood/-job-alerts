@@ -1,5 +1,57 @@
 [
   {
+    "id": "1ae1e9cad02e77c9",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475346128/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-04T17:09:42.407032+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1790958059-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4473428740&",
+    "status": "new"
+  },
+  {
+    "id": "a114e2ad543d4edf",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager (Remote, Cochabamba)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475339512/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T17:09:42.407096+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager (Remote, Cochabamba) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
+    "id": "18a45c79c0bdd4f1",
+    "title": "--------------------------------------------------------",
+    "company": "Ecommerce Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473174515/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T17:09:43.373077+00:00",
+    "snippet": "-------------------------------------------------------- · Ecommerce Project Manager · Höski",
+    "status": "new"
+  },
+  {
+    "id": "a40d909d1c3a5499",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Operations Project Manager (Remote, Ibague)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475348044/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T17:09:43.373186+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Operations Project Manager (Remote, Ibague) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
     "id": "a6ba120b50df2803",
     "title": "--------------------------------------------------------",
     "company": "Project Manager (Corporate Services)",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-09-12T00:24:25.030515+00:00",
     "snippet": "-------------------------------------------------------- · PROJECT MANAGER · Atos",
-    "status": "new"
-  },
-  {
-    "id": "50f9c76e712019d2",
-    "title": "--------------------------------------------------------",
-    "company": "Strategic Project Manager (Remote)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465673141/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T00:24:25.030605+00:00",
-    "snippet": "-------------------------------------------------------- · Strategic Project Manager (Remote) · Hire Feed",
-    "status": "new"
-  },
-  {
-    "id": "a8ec8033342b4570",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464592240/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T00:24:25.030694+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "eb1a872545efb496",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464503968/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T00:24:25.030786+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Sector Educativo (Remote, España) · Ironhack",
-    "status": "new"
-  },
-  {
-    "id": "aae540c4dbb3ec9f",
-    "title": "Coordinador(a) Administrativo(a)",
-    "company": "CBO Accounting & Advisory Services",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464545134/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-12T00:24:25.459041+00:00",
-    "snippet": "Coordinador(a) Administrativo(a) · CBO Accounting & Advisory Services · Quito",
     "status": "new"
   }
 ]
