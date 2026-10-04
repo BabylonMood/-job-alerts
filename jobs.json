@@ -1,5 +1,31 @@
 [
   {
+    "id": "d7ac5db244433fa4",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager Digital",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473168725/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T23:19:41.307135+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager Digital · Alma",
+    "status": "new"
+  },
+  {
+    "id": "f76a96696765907a",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475022758/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-04T23:19:41.307428+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Project Manager · APPLY",
+    "status": "new"
+  },
+  {
     "id": "dab9f0675f9526a1",
     "title": "--------------------------------------------------------",
     "company": "Project Manager Jr",
@@ -3874,32 +3900,6 @@
     ],
     "found_at": "2026-09-12T08:55:13.472192+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager (Creative) · Critical Mass",
-    "status": "new"
-  },
-  {
-    "id": "e53d8328bc70664a",
-    "title": "Project Manager - Sector Educativo (Remote, España)",
-    "company": "Ironhack",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464585192/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T00:24:25.030316+00:00",
-    "snippet": "Project Manager - Sector Educativo (Remote, España) · Ironhack · Madrid",
-    "status": "new"
-  },
-  {
-    "id": "60a3a1340715e1b2",
-    "title": "--------------------------------------------------------",
-    "company": "Operations Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465675876/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-12T00:24:25.030425+00:00",
-    "snippet": "-------------------------------------------------------- · Operations Manager · Trading 212",
     "status": "new"
   }
 ]
