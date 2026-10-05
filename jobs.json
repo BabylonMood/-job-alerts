@@ -1,5 +1,44 @@
 [
   {
+    "id": "8d1223e53c38f3f2",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager Jr",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4468250770/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-05T18:37:00.668583+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager Jr · IKEA",
+    "status": "new"
+  },
+  {
+    "id": "c7f2e4df771d92d7",
+    "title": "Auxiliar Administrativo",
+    "company": "Jobbol",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475510577/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-05T18:37:01.194558+00:00",
+    "snippet": "Auxiliar Administrativo · Jobbol · Curitiba, PR",
+    "status": "new"
+  },
+  {
+    "id": "8aaa1f15719268bd",
+    "title": "--------------------------------------------------------",
+    "company": "Auxiliar Administrativo",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475399885/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-05T18:37:01.194666+00:00",
+    "snippet": "-------------------------------------------------------- · Auxiliar Administrativo · Jobbol",
+    "status": "new"
+  },
+  {
     "id": "d7ac5db244433fa4",
     "title": "--------------------------------------------------------",
     "company": "Project Manager Digital",
@@ -3861,45 +3900,6 @@
     ],
     "found_at": "2026-09-12T08:55:13.471920+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "0df5499230215f6a",
-    "title": "--------------------------------------------------------",
-    "company": "Associate Project Manager Advisory",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465350705/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.472014+00:00",
-    "snippet": "-------------------------------------------------------- · Associate Project Manager Advisory - Operations · Signant Health",
-    "status": "new"
-  },
-  {
-    "id": "85410f232e80556f",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465096914/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.472104+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Real Hires",
-    "status": "new"
-  },
-  {
-    "id": "f1588e290e926a23",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Creative)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4456348044/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.472192+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Creative) · Critical Mass",
     "status": "new"
   }
 ]
