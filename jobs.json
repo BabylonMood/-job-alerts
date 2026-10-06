@@ -1,5 +1,31 @@
 [
   {
+    "id": "4c9009ce6a70cd3a",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Operations Manager / Head of Operations",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475800440/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-06T23:08:15.791643+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Operations Manager / Head of Operations · Torre.ai",
+    "status": "new"
+  },
+  {
+    "id": "165ed58baa17a40f",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473178748/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-06T23:08:16.502653+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1791131284-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4473643080,4470904707&lipi=ur",
+    "status": "new"
+  },
+  {
     "id": "3226a12d21dc1d95",
     "title": "--------------------------------------------------------",
     "company": "Functional Project Manager",
@@ -3875,32 +3901,6 @@
     ],
     "found_at": "2026-09-12T20:02:20.071805+00:00",
     "snippet": "-------------------------------------------------------- · Global Operations Manager (English) – BPO · Jobgether",
-    "status": "new"
-  },
-  {
-    "id": "76407093af4d97fc",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager_Proyectos ciberseguridad (100% remoto)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465124738/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T20:02:20.071876+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager_Proyectos ciberseguridad (100% remoto) · knowmad mood",
-    "status": "new"
-  },
-  {
-    "id": "974e5f2faff5a684",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Media Analyst (Project Management)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463948956/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-09-12T20:02:20.072042+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Media Analyst (Project Management) · Ebiquity plc",
     "status": "new"
   }
 ]
