@@ -1,5 +1,44 @@
 [
   {
+    "id": "3226a12d21dc1d95",
+    "title": "--------------------------------------------------------",
+    "company": "Functional Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473651455/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T19:11:44.264848+00:00",
+    "snippet": "-------------------------------------------------------- · Functional Project Manager · NEVERHACK Spain",
+    "status": "new"
+  },
+  {
+    "id": "1605e453087fd1e1",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475862336/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T19:11:45.070243+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Job Duck",
+    "status": "new"
+  },
+  {
+    "id": "5d157d83b25d3666",
+    "title": "--------------------------------------------------------",
+    "company": "Localization Project Manager (Late Shift)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475540594/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T19:11:45.070416+00:00",
+    "snippet": "-------------------------------------------------------- · Localization Project Manager (Late Shift) · Acclaro",
+    "status": "new"
+  },
+  {
     "id": "4441837df787f945",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
@@ -3862,45 +3901,6 @@
     ],
     "found_at": "2026-09-12T20:02:20.072042+00:00",
     "snippet": "-------------------------------------------------------- · Senior Media Analyst (Project Management) · Ebiquity plc",
-    "status": "new"
-  },
-  {
-    "id": "46febadc602a3949",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager Infraestructuras Workplace",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466320102/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T20:02:20.072108+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager Infraestructuras Workplace · GRUPO NS",
-    "status": "new"
-  },
-  {
-    "id": "9e56c475770cac86",
-    "title": "--------------------------------------------------------",
-    "company": "Traffic & Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465833593/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T15:43:21.643032+00:00",
-    "snippet": "-------------------------------------------------------- · Traffic & Project Manager · de la cruz",
-    "status": "new"
-  },
-  {
-    "id": "e420364a1721276f",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager (Digital)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4430122931/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T15:43:21.643148+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager (Digital) · Critical Mass",
     "status": "new"
   }
 ]
