@@ -1,5 +1,57 @@
 [
   {
+    "id": "28f3c2b7d4f830d6",
+    "title": "Iara, solicita el puesto de Project Coordinator",
+    "company": "GlobalTeam y más",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/help/linkedin/answer/4788?lang=es",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T00:26:59.489695+00:00",
+    "snippet": "---------------------------------------- Este email está dirigido a Iara Carrero (Project Manager & Operations | Workflow Automation & AI) Averigua por qué incluimos esto: https://www.linkedin.com/help/linkedin/answer/4788?lang=es&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_weekly_saved_jobs_01%3BavCVUM",
+    "status": "new"
+  },
+  {
+    "id": "53f3e47b274f586b",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager (Remote, Bogota)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475347032/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T00:27:00.269213+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager (Remote, Bogota) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
+    "id": "095eb281e93c3d8b",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager (Remote, Mexico City)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475346118/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-06T00:27:00.269336+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager (Remote, Mexico City) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
+    "id": "7276c4f3e450ae0f",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473887254/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-06T00:27:00.678199+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1791058595-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4475502358&lipi=urn%3Ali%3Apa",
+    "status": "new"
+  },
+  {
     "id": "8d1223e53c38f3f2",
     "title": "--------------------------------------------------------",
     "company": "Project Manager Jr",
@@ -3848,58 +3900,6 @@
     ],
     "found_at": "2026-09-12T15:43:21.643334+00:00",
     "snippet": "-------------------------------------------------------- · Marketing Project Manager · Steta&Malo",
-    "status": "new"
-  },
-  {
-    "id": "1815b3f8528d3504",
-    "title": "--------------------------------------------------------",
-    "company": "Web Project Manager (Remote, Guadalajara)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465825318/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T15:43:21.643427+00:00",
-    "snippet": "-------------------------------------------------------- · Web Project Manager (Remote, Guadalajara) · Blacksmith Agency",
-    "status": "new"
-  },
-  {
-    "id": "6dd514c7df734789",
-    "title": "Junior Project Manager",
-    "company": "SIARQ",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465618384/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.471697+00:00",
-    "snippet": "Junior Project Manager · SIARQ · Ciudad de México, México",
-    "status": "new"
-  },
-  {
-    "id": "a1a3f7e0d9eadb55",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464111978/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.471826+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
-    "status": "new"
-  },
-  {
-    "id": "416722e86fa26aff",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464123827/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T08:55:13.471920+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
     "status": "new"
   }
 ]
