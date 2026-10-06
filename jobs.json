@@ -1,5 +1,32 @@
 [
   {
+    "id": "4441837df787f945",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475539283/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-06T13:44:32.143237+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1791145887-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BFj",
+    "status": "new"
+  },
+  {
+    "id": "7330bddb51151091",
+    "title": "--------------------------------------------------------",
+    "company": "Account Manager / Project Manager Digital",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4473608058/",
+    "matched_keywords": [
+      "project manager",
+      "account manager"
+    ],
+    "found_at": "2026-10-06T13:44:32.143313+00:00",
+    "snippet": "-------------------------------------------------------- · Account Manager / Project Manager Digital – Growth & eCommerce · Fenicio eCommerce",
+    "status": "new"
+  },
+  {
     "id": "28f3c2b7d4f830d6",
     "title": "Iara, solicita el puesto de Project Coordinator",
     "company": "GlobalTeam y más",
@@ -3874,32 +3901,6 @@
     ],
     "found_at": "2026-09-12T15:43:21.643148+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager (Digital) · Critical Mass",
-    "status": "new"
-  },
-  {
-    "id": "44033075d546e727",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465829195/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T15:43:21.643243+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · AlfaPeople",
-    "status": "new"
-  },
-  {
-    "id": "9deba5025ffa7414",
-    "title": "--------------------------------------------------------",
-    "company": "Marketing Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465800854/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T15:43:21.643334+00:00",
-    "snippet": "-------------------------------------------------------- · Marketing Project Manager · Steta&Malo",
     "status": "new"
   }
 ]
