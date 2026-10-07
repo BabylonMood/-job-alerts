@@ -1,5 +1,44 @@
 [
   {
+    "id": "5064bc640e4af050",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475890691/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-07T21:40:46.987813+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Remote Leverage",
+    "status": "new"
+  },
+  {
+    "id": "0eb445f04de0acb7",
+    "title": "--------------------------------------------------------",
+    "company": "PROJECT MANAGER",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476143850/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-07T21:40:46.988195+00:00",
+    "snippet": "-------------------------------------------------------- · PROJECT MANAGER – PRODUCT DEVELOPMENT LATAM · MCR International | Executive Search",
+    "status": "new"
+  },
+  {
+    "id": "fb1e16081789cae6",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4456514025/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-07T21:40:46.988513+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1791232364-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4476345137,4474406133&lipi=ur",
+    "status": "new"
+  },
+  {
     "id": "d929c6823772aa74",
     "title": "--------------------------------------------------------",
     "company": "Program/Project Management Lead",
@@ -3862,45 +3901,6 @@
     ],
     "found_at": "2026-09-13T22:24:54.510623+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · OLIVER Latin America",
-    "status": "new"
-  },
-  {
-    "id": "e9820bfff7883bb0",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager/Producer",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4428723531/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.510725+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager/Producer - ARGENTINA · OLIVER Latin America",
-    "status": "new"
-  },
-  {
-    "id": "c18f0d2bb6f68fbf",
-    "title": "Strategy & Operations Project Manager",
-    "company": "Fever",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4408450714/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.723522+00:00",
-    "snippet": "Strategy & Operations Project Manager · Fever · Madrid",
-    "status": "new"
-  },
-  {
-    "id": "6c52e37952f226eb",
-    "title": "--------------------------------------------------------",
-    "company": "GCP Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4446992071/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.723704+00:00",
-    "snippet": "-------------------------------------------------------- · GCP Project Manager · Devoteam",
     "status": "new"
   }
 ]
