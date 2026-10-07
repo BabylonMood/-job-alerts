@@ -1,5 +1,57 @@
 [
   {
+    "id": "d929c6823772aa74",
+    "title": "--------------------------------------------------------",
+    "company": "Program/Project Management Lead",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4474943267/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-10-07T16:46:17.663312+00:00",
+    "snippet": "-------------------------------------------------------- · Program/Project Management Lead – Graph & Semantics · IT Partner",
+    "status": "new"
+  },
+  {
+    "id": "a8302c60035bb288",
+    "title": "--------------------------------------------------------",
+    "company": "Product Operations Manager (Senior / Staff)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4456503399/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-07T16:46:18.169701+00:00",
+    "snippet": "-------------------------------------------------------- · Product Operations Manager (Senior / Staff) · Deel",
+    "status": "new"
+  },
+  {
+    "id": "0dce784fb3d77388",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager Sr",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4458288825/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-07T16:46:18.169902+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager Sr · MRM",
+    "status": "new"
+  },
+  {
+    "id": "a360a30447a7f2b1",
+    "title": "--------------------------------------------------------",
+    "company": "Consultor/a PMO de Inteligencia Artificial y Transformación Digital",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475108374/",
+    "matched_keywords": [
+      "pmo"
+    ],
+    "found_at": "2026-10-07T16:46:18.170340+00:00",
+    "snippet": "-------------------------------------------------------- · Consultor/a PMO de Inteligencia Artificial y Transformación Digital · knowmad mood",
+    "status": "new"
+  },
+  {
     "id": "4c9009ce6a70cd3a",
     "title": "--------------------------------------------------------",
     "company": "Senior Operations Manager / Head of Operations",
@@ -3849,58 +3901,6 @@
     ],
     "found_at": "2026-09-13T22:24:54.723704+00:00",
     "snippet": "-------------------------------------------------------- · GCP Project Manager · Devoteam",
-    "status": "new"
-  },
-  {
-    "id": "d31b20deb52c4632",
-    "title": "--------------------------------------------------------",
-    "company": "Technical Project Manager (JetBrains Cloud Platform)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4427363556/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.723795+00:00",
-    "snippet": "-------------------------------------------------------- · Technical Project Manager (JetBrains Cloud Platform) · JetBrains",
-    "status": "new"
-  },
-  {
-    "id": "75cffcd5d3ec0abb",
-    "title": "--------------------------------------------------------",
-    "company": "Strategy & Execution Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4408449743/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.723967+00:00",
-    "snippet": "-------------------------------------------------------- · Strategy & Execution Project Manager · Fever",
-    "status": "new"
-  },
-  {
-    "id": "b76c0d120c6eeaa1",
-    "title": "Project Manager BESS",
-    "company": "Jobgether",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464811057/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-12T20:02:20.071710+00:00",
-    "snippet": "Project Manager BESS · Jobgether · España",
-    "status": "new"
-  },
-  {
-    "id": "ee422d2005eac831",
-    "title": "--------------------------------------------------------",
-    "company": "Global Operations Manager (English)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464878065/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-12T20:02:20.071805+00:00",
-    "snippet": "-------------------------------------------------------- · Global Operations Manager (English) – BPO · Jobgether",
     "status": "new"
   }
 ]
