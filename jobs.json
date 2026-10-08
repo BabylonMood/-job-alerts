@@ -1,5 +1,18 @@
 [
   {
+    "id": "baf0e42a5749d0d1",
+    "title": "Gestionar alertas: https://www.linkedin.com/comm/jobs/alerts?lipi=REDACTED&midToken=REDACTED&midSig=REDACTED&trk=REDACTED&trkEmail=REDACTED&eid=REDACTED&otpToken=REDACTED",
+    "company": "Asistente de Operaciones",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472953162/",
+    "matched_keywords": [
+      "pmo"
+    ],
+    "found_at": "2026-10-08T01:24:53.155729+00:00",
+    "snippet": "Gestionar alertas: https://www.linkedin.com/comm/jobs/alerts?lipi=REDACTED&midToken=REDACTED&midSig=REDACTED&trk=REDACTED",
+    "status": "new"
+  },
+  {
     "id": "5064bc640e4af050",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3888,19 +3901,6 @@
     ],
     "found_at": "2026-09-13T22:24:54.190676+00:00",
     "snippet": "-------------------------------------------------------- · Auxiliar Administrativo – Home Office · Empresa Confidencial",
-    "status": "new"
-  },
-  {
-    "id": "826abc04f9d696dd",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465152316/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.510623+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · OLIVER Latin America",
     "status": "new"
   }
 ]
