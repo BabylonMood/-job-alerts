@@ -1,5 +1,18 @@
 [
   {
+    "id": "baf0e42a5749d0d1",
+    "title": "Gestionar alertas: https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BDPUbsrd8TFuzbq3L8bAfiQ%3D%3D&midToken=AQGJqg12Xe5rrg&midSig=1JYPMOSftOBcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-manage_alerts_text_ssid_5614716409_fmid_dvs4yl~muyp13vj~10&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-manage_alerts_text_ssid_5614716409_fmid_dvs4yl~muyp13vj~10-null-dvs4yl~muyp13vj~10-null-null&eid=dvs4yl-muyp13vj-10&otpToken=NjM5Y2ZhNzA0ZmJhNjJmZjRjMDQwNzZjYTEwYWRlZmI2MjU5MDI2ZGJjYzEwMzc0YzBiYjA2ODA1MTgwYmEyNmY5MDZhOTE1NjU2MjQyYWJjZjkwNWFkYmMzYjJhOWE0NjNmNzczODc3MzI5YjBjNDA2ZTliNGQ0MWY0NTM1NWE5MjU1NTM4MDY5YjliOTZkLDIsMQ%3D%3D",
+    "company": "Asistente de Operaciones",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4472953162/",
+    "matched_keywords": [
+      "pmo"
+    ],
+    "found_at": "2026-10-08T01:24:53.155729+00:00",
+    "snippet": "Gestionar alertas: https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BDPUbsrd8TFuzbq3L8bAfiQ%3D%3D&midToken=AQGJqg12Xe5rrg&midSig=1JYPMOSftOBcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-manage_alerts_text_ssid_5614716409_fmid_dvs4yl~muyp13v",
+    "status": "new"
+  },
+  {
     "id": "5064bc640e4af050",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3888,19 +3901,6 @@
     ],
     "found_at": "2026-09-13T22:24:54.190676+00:00",
     "snippet": "-------------------------------------------------------- · Auxiliar Administrativo – Home Office · Empresa Confidencial",
-    "status": "new"
-  },
-  {
-    "id": "826abc04f9d696dd",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465152316/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:54.510623+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · OLIVER Latin America",
     "status": "new"
   }
 ]
