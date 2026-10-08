@@ -1,5 +1,57 @@
 [
   {
+    "id": "2b2c291947176889",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476787420/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-08T20:43:56.313854+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1791319393-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2",
+    "status": "new"
+  },
+  {
+    "id": "b55d1d8b34f82ce6",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager | Payroll Solutions",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4474458814/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-08T20:43:56.717654+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager | Payroll Solutions · Deel",
+    "status": "new"
+  },
+  {
+    "id": "d05c2b9c5225478e",
+    "title": "--------------------------------------------------------",
+    "company": "PROJECT MANAGER (100% REMOTO)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4474457035/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-08T20:43:56.718289+00:00",
+    "snippet": "-------------------------------------------------------- · PROJECT MANAGER (100% REMOTO) · Randstad Digital",
+    "status": "new"
+  },
+  {
+    "id": "8c3c021c518e9337",
+    "title": "--------------------------------------------------------",
+    "company": "Executive Director, Project Management",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475461787/",
+    "matched_keywords": [
+      "project management"
+    ],
+    "found_at": "2026-10-08T20:43:57.072612+00:00",
+    "snippet": "-------------------------------------------------------- · Executive Director, Project Management - Dementia (North America/Europe) · Worldwide Clinical Trials",
+    "status": "new"
+  },
+  {
     "id": "397e0d91d7f1b85a",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
@@ -3849,58 +3901,6 @@
     ],
     "found_at": "2026-09-13T22:24:52.701118+00:00",
     "snippet": "Strategic Project Manager (Remote) · Hire Feed · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "34f90b87d01f9f23",
-    "title": "--------------------------------------------------------",
-    "company": "Senior Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464598978/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:52.701220+00:00",
-    "snippet": "-------------------------------------------------------- · Senior Project Manager · Caylent",
-    "status": "new"
-  },
-  {
-    "id": "b8ea48d3df24c1f2",
-    "title": "Project Manager Junior Agencia",
-    "company": "Los de Marketing",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466364045/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:53.006370+00:00",
-    "snippet": "Project Manager Junior Agencia · Los de Marketing · Medellín",
-    "status": "new"
-  },
-  {
-    "id": "d15b52ab577abfd1",
-    "title": "--------------------------------------------------------",
-    "company": "Oficina de gestión de proyectos",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466305765/",
-    "matched_keywords": [
-      "gestion de proyectos"
-    ],
-    "found_at": "2026-09-13T22:24:53.006649+00:00",
-    "snippet": "-------------------------------------------------------- · Oficina de gestión de proyectos · PGD PROCESOS DE GESTIÓN DOCUMENTAL SAS",
-    "status": "new"
-  },
-  {
-    "id": "8233fa83f0e9fba9",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466355130/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-13T22:24:53.006736+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Tambourine",
     "status": "new"
   }
 ]
