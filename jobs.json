@@ -1,5 +1,18 @@
 [
   {
+    "id": "e71dd6c9c44157b4",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475452797/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-09T23:21:55.603670+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - Remote Work · BairesDev",
+    "status": "new"
+  },
+  {
     "id": "81997fa134fed3c9",
     "title": "--------------------------------------------------------",
     "company": "Administrativo/a de Atención al Cliente",
@@ -3888,19 +3901,6 @@
     ],
     "found_at": "2026-09-14T05:11:09.979031+00:00",
     "snippet": "-------------------------------------------------------- · Associate Project Manager - Language Services - Linguistic Validation · Thermo Fisher Scientific",
-    "status": "new"
-  },
-  {
-    "id": "e7ea09b8a556eaa8",
-    "title": "--------------------------------------------------------",
-    "company": "Account Manager Sr",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4463063520",
-    "matched_keywords": [
-      "account manager"
-    ],
-    "found_at": "2026-09-14T00:17:53.045955+00:00",
-    "snippet": "-------------------------------------------------------- · Account Manager Sr · GUATEQUE",
     "status": "new"
   }
 ]
