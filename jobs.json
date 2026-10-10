@@ -1,5 +1,70 @@
 [
   {
+    "id": "febda23768dd9b10",
+    "title": "--------------------------------------------------------",
+    "company": "Account Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477838992/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-10T22:44:17.353224+00:00",
+    "snippet": "-------------------------------------------------------- · Account Operations Manager · hey! Marco",
+    "status": "new"
+  },
+  {
+    "id": "a66aff9a3101e32d",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475228744/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-10T22:44:17.353331+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager - PM MX · Smartup Agencia Growth",
+    "status": "new"
+  },
+  {
+    "id": "bd264e5f1d9896c1",
+    "title": "--------------------------------------------------------",
+    "company": "Demand Generation Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476242175/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-10T22:44:17.353507+00:00",
+    "snippet": "-------------------------------------------------------- · Demand Generation Project Manager · Eastman",
+    "status": "new"
+  },
+  {
+    "id": "27a9d10d8075ea9e",
+    "title": "--------------------------------------------------------",
+    "company": "Junior Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477408520/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-10T22:44:17.353989+00:00",
+    "snippet": "-------------------------------------------------------- · Junior Project Manager · Step Labs || Shopify CRO Agency",
+    "status": "new"
+  },
+  {
+    "id": "fe8e5722d2049d52",
+    "title": "--------------------------------------------------------",
+    "company": "Aprendiz practicante administrativo(Etapa productiva)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477672408/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-10T22:44:17.761750+00:00",
+    "snippet": "-------------------------------------------------------- · Aprendiz practicante administrativo(Etapa productiva) · Bold.co",
+    "status": "new"
+  },
+  {
     "id": "5e9c03e23fbf6934",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3836,71 +3901,6 @@
     ],
     "found_at": "2026-09-14T20:40:10.517774+00:00",
     "snippet": "-------------------------------------------------------- · Global Sr Project Manager - FSP · Thermo Fisher Scientific",
-    "status": "new"
-  },
-  {
-    "id": "5338fa81a2ee7190",
-    "title": "--------------------------------------------------------",
-    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4454665025/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-14T20:40:10.518271+00:00",
-    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Asistente+Administrativo+remoto&f_TPR=a1789244272-&geoId=91000011&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=REDACTED",
-    "status": "new"
-  },
-  {
-    "id": "a5781b9ecfb59dc5",
-    "title": "Coordinador de Proyectos",
-    "company": "Colección Talento",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465466589/",
-    "matched_keywords": [
-      "coordinador de proyectos"
-    ],
-    "found_at": "2026-09-14T16:40:19.569044+00:00",
-    "snippet": "Coordinador de Proyectos · Colección Talento · Bogotá",
-    "status": "new"
-  },
-  {
-    "id": "f8ad88f6222f931d",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4456294723/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T16:40:19.569153+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Black & McDonald Limited",
-    "status": "new"
-  },
-  {
-    "id": "20156ff366610564",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4419311786/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T16:40:19.569244+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · Newmark",
-    "status": "new"
-  },
-  {
-    "id": "0f01aabd3578b2c7",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466729025/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T16:40:19.569330+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · PUMA Group",
     "status": "new"
   }
 ]
