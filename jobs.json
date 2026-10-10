@@ -1,5 +1,31 @@
 [
   {
+    "id": "5e9c03e23fbf6934",
+    "title": "--------------------------------------------------------",
+    "company": "Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476263645/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-10T19:02:11.503053+00:00",
+    "snippet": "-------------------------------------------------------- · Project Manager · Spiralyze",
+    "status": "new"
+  },
+  {
+    "id": "b89be9b1437f8e4e",
+    "title": "--------------------------------------------------------",
+    "company": "Digital Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476252316/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-10T19:02:12.081312+00:00",
+    "snippet": "-------------------------------------------------------- · Digital Project Manager · EPAM Systems",
+    "status": "new"
+  },
+  {
     "id": "075ea1f47e6b91f1",
     "title": "--------------------------------------------------------",
     "company": "Gerente de Operaciones Internacionales",
@@ -3875,32 +3901,6 @@
     ],
     "found_at": "2026-09-14T16:40:19.569330+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · PUMA Group",
-    "status": "new"
-  },
-  {
-    "id": "b6d29634445dde75",
-    "title": "--------------------------------------------------------",
-    "company": "NetSuite Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464217568/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T16:40:19.569417+00:00",
-    "snippet": "-------------------------------------------------------- · NetSuite Project Manager · Plative",
-    "status": "new"
-  },
-  {
-    "id": "c8f7bdc3b401af1f",
-    "title": "--------------------------------------------------------",
-    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4188540610/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-14T16:40:19.948120+00:00",
-    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789244919-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4465463560,4467001072&lipi=ur",
     "status": "new"
   }
 ]
