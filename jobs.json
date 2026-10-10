@@ -1,5 +1,44 @@
 [
   {
+    "id": "075ea1f47e6b91f1",
+    "title": "--------------------------------------------------------",
+    "company": "Gerente de Operaciones Internacionales",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477862731/",
+    "matched_keywords": [
+      "gerente de operaciones"
+    ],
+    "found_at": "2026-10-10T14:53:10.029321+00:00",
+    "snippet": "-------------------------------------------------------- · Gerente de Operaciones Internacionales · OCASA",
+    "status": "new"
+  },
+  {
+    "id": "922b6474dfb691fd",
+    "title": "--------------------------------------------------------",
+    "company": "Senior Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477643647/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-10T14:53:10.029427+00:00",
+    "snippet": "-------------------------------------------------------- · Senior Operations Manager · Tires Easy",
+    "status": "new"
+  },
+  {
+    "id": "d138049cadc5902f",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477835704/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-10T14:53:10.389511+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos en LinkedIn: https://www.linkedin.com/comm/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1791492084-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4477474754,",
+    "status": "new"
+  },
+  {
     "id": "e71dd6c9c44157b4",
     "title": "--------------------------------------------------------",
     "company": "Project Manager",
@@ -3862,45 +3901,6 @@
     ],
     "found_at": "2026-09-14T16:40:19.948120+00:00",
     "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1789244919-&geoId=103323778&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4465463560,4467001072&lipi=ur",
-    "status": "new"
-  },
-  {
-    "id": "00c3b4025cc07cfb",
-    "title": "Project Manager – ERP Implementation",
-    "company": "Auxis",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466401777/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T05:11:09.978784+00:00",
-    "snippet": "Project Manager – ERP Implementation · Auxis · Bogotá",
-    "status": "new"
-  },
-  {
-    "id": "0c7c08532dff9370",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4447596968/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T05:11:09.978875+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager - Colombia · SNP Group",
-    "status": "new"
-  },
-  {
-    "id": "06f1f4678c4c1836",
-    "title": "--------------------------------------------------------",
-    "company": "Associate Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464283979/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T05:11:09.979031+00:00",
-    "snippet": "-------------------------------------------------------- · Associate Project Manager - Language Services - Linguistic Validation · Thermo Fisher Scientific",
     "status": "new"
   }
 ]
