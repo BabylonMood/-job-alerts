@@ -1,5 +1,31 @@
 [
   {
+    "id": "8669c94e51d5f9b9",
+    "title": "--------------------------------------------------------",
+    "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4477891236/",
+    "matched_keywords": [
+      "administrativo"
+    ],
+    "found_at": "2026-10-11T14:14:49.211810+00:00",
+    "snippet": "-------------------------------------------------------- · Ver todos los empleos https://www.linkedin.com/jobs/search-results/?keywords=Auxiliar+administrativo+En+remoto&f_TPR=a1791562881-&geoId=105646813&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&originToLandingJobPostings=4475245922&lipi=REDACTED",
+    "status": "new"
+  },
+  {
+    "id": "0341332241edf54e",
+    "title": "--------------------------------------------------------",
+    "company": "Technical Project Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478063801/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-11T14:14:49.211892+00:00",
+    "snippet": "-------------------------------------------------------- · Technical Project Manager · Braintrust",
+    "status": "new"
+  },
+  {
     "id": "febda23768dd9b10",
     "title": "--------------------------------------------------------",
     "company": "Account Operations Manager",
@@ -3875,32 +3901,6 @@
     ],
     "found_at": "2026-09-15T17:26:15.090570+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · E80 Group",
-    "status": "new"
-  },
-  {
-    "id": "1e9b8c6716c4c3cd",
-    "title": "--------------------------------------------------------",
-    "company": "Coordinador de Proyectos",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465466589/",
-    "matched_keywords": [
-      "coordinador de proyectos"
-    ],
-    "found_at": "2026-09-14T20:40:10.517640+00:00",
-    "snippet": "-------------------------------------------------------- · Coordinador de Proyectos · Colección Talento",
-    "status": "new"
-  },
-  {
-    "id": "395f9c711df41f3e",
-    "title": "--------------------------------------------------------",
-    "company": "Global Sr Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4453871825/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-14T20:40:10.517774+00:00",
-    "snippet": "-------------------------------------------------------- · Global Sr Project Manager - FSP · Thermo Fisher Scientific",
     "status": "new"
   }
 ]
