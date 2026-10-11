@@ -1,5 +1,45 @@
 [
   {
+    "id": "0416ab460e5b2b50",
+    "title": "--------------------------------------------------------",
+    "company": "Operations Manager",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478014670/",
+    "matched_keywords": [
+      "pmo",
+      "operations manager"
+    ],
+    "found_at": "2026-10-11T19:03:10.316508+00:00",
+    "snippet": "-------------------------------------------------------- · Operations Manager · JPMorganChase",
+    "status": "new"
+  },
+  {
+    "id": "3ac308cee0277c53",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager (Remote, Bucaramanga)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478077337/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-11T19:03:12.524907+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager (Remote, Bucaramanga) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
+    "id": "cc0766b5ff68da1d",
+    "title": "--------------------------------------------------------",
+    "company": "Marketing Project Manager (Remote, Temuco)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478076398/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-11T19:03:15.487349+00:00",
+    "snippet": "-------------------------------------------------------- · Marketing Project Manager (Remote, Temuco) · Blacksmith Agency",
+    "status": "new"
+  },
+  {
     "id": "8669c94e51d5f9b9",
     "title": "--------------------------------------------------------",
     "company": "Ver todos los empleos https://www.linkedin.com/jobs/search",
@@ -3862,45 +3902,6 @@
     ],
     "found_at": "2026-09-15T17:26:13.178748+00:00",
     "snippet": "-------------------------------------------------------- · Promotional Assets Project Manager, Launch Operations · Netflix",
-    "status": "new"
-  },
-  {
-    "id": "e18ad5baf197913f",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465800367/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-15T17:26:15.090177+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · prompt couture",
-    "status": "new"
-  },
-  {
-    "id": "f07d0670af8b055a",
-    "title": "--------------------------------------------------------",
-    "company": "Operations Manager (Card Payments)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4409923507/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-15T17:26:15.090369+00:00",
-    "snippet": "-------------------------------------------------------- · Operations Manager (Card Payments) · Revolut",
-    "status": "new"
-  },
-  {
-    "id": "86306a6410c6ce7e",
-    "title": "--------------------------------------------------------",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4464752646/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-15T17:26:15.090570+00:00",
-    "snippet": "-------------------------------------------------------- · Project Manager · E80 Group",
     "status": "new"
   }
 ]
