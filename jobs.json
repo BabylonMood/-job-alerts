@@ -1,5 +1,31 @@
 [
   {
+    "id": "6ced47fe26e87fb5",
+    "title": "--------------------------------------------------------",
+    "company": "Asistente Administrativa y Contable",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478566935/",
+    "matched_keywords": [
+      "administrativa"
+    ],
+    "found_at": "2026-10-13T21:37:49.610563+00:00",
+    "snippet": "-------------------------------------------------------- · Asistente Administrativa y Contable · Superhost DR",
+    "status": "new"
+  },
+  {
+    "id": "d42642e567dddb73",
+    "title": "Operations Manager",
+    "company": "Virtustant",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4476066298/",
+    "matched_keywords": [
+      "operations manager"
+    ],
+    "found_at": "2026-10-13T21:37:51.030577+00:00",
+    "snippet": "Operations Manager · Virtustant · Argentina",
+    "status": "new"
+  },
+  {
     "id": "4595b68a1a7f0eae",
     "title": "Technical Project Manager",
     "company": "Jobgether",
@@ -3876,32 +3902,6 @@
     ],
     "found_at": "2026-09-16T19:10:34.753771+00:00",
     "snippet": "-------------------------------------------------------- · Project Manager · Rooftop.dev",
-    "status": "new"
-  },
-  {
-    "id": "c445c3c288fd4db6",
-    "title": "--------------------------------------------------------",
-    "company": "Operations Manager, Offer Operations",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467739467/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-16T19:10:35.164848+00:00",
-    "snippet": "-------------------------------------------------------- · Operations Manager, Offer Operations · Joko",
-    "status": "new"
-  },
-  {
-    "id": "aaa3bff002ea2825",
-    "title": "--------------------------------------------------------",
-    "company": "Localization Project Manager [Europe] (Fixed",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467494658/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-16T19:10:35.165135+00:00",
-    "snippet": "-------------------------------------------------------- · Localization Project Manager [Europe] (Fixed-Term Contract) · Nex",
     "status": "new"
   }
 ]
