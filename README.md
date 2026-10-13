@@ -52,13 +52,13 @@ En el repo: `Settings → Secrets and variables → Actions → New repository s
 - `IMAP_USER` → tu casilla dedicada
 - `IMAP_PASS` → la contraseña de aplicación del Paso 1
 
-El workflow en `.github/workflows/scan.yml` ya está listo: corre cada 15
+El workflow en `.github/workflows/scan.yml` ya está listo: corre cada 30
 minutos, ejecuta `scan_email.py`, y si hay ofertas nuevas actualiza
 `jobs.json` y lo commitea de vuelta al repo. También lo podés disparar a
 mano desde la pestaña **Actions → Scan job alerts → Run workflow**.
 
-Las ofertas con más de 14 días se eliminan automáticamente tanto del scanner
-como del dashboard (podés desactivar este filtro desde la página).
+El dashboard oculta por defecto las ofertas de más de 14 días, y el scanner
+elimina las de más de 30 (el filtro del dashboard se puede desactivar).
 
 ## Paso 5 — Publicar el dashboard (GitHub Pages)
 
@@ -70,7 +70,7 @@ versión más reciente de `jobs.json`, porque el workflow lo actualiza solo.
 
 Si preferís probarlo local antes de subir nada:
 ```bash
-cd job-alerts
+cd job-alerts-radar
 python3 -m http.server
 # abrí http://localhost:8000
 ```
@@ -111,6 +111,9 @@ salga. Editá el texto en el `<textarea>` antes de mandarlo.
   aparecían cosas raras como "Remote Work en" de empresa).
 - Las URLs de LinkedIn se limpian de los parámetros de tracking
   (`otpToken`, `lipi`, `trkEmail`, etc.), quedando enlaces cortos y estables.
+- Todo el texto que sale de los mails (título, empresa, resumen) pasa por un
+  sanitizador que borra URLs crudas y parámetros de tracking, así `jobs.json`
+  nunca guarda tokens. El workflow además **falla** si detecta alguno.
 - El filtro de keywords ignora acentos, y `seen.json` no crece sin límite.
 
 ## Limitaciones a tener en cuenta

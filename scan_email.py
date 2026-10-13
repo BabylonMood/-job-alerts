@@ -158,7 +158,47 @@ BOILERPLATE_FRAGMENTS = [
     "tu empleo caduca",
     "conserva tu candidatura",
     "los datos de contacto de",
+    "gestionar alertas",
+    "cancelar la alerta",
+    "empleos similares a",
+    "ver más empleos",
+    "recibir alertas de empleo",
+    "darse de baja",
+    "linkedin corporation",
 ]
+
+URL_RE = re.compile(r"https?://[^\s\"'<>)]+")
+SENSITIVE_PARAM_RE = re.compile(
+    r"\b(?:lipi|midToken|midSig|trk|trkEmail|eid|otpToken|refId|trackingId|utm_[a-zA-Z]+)=[^\s&\"']+",
+    re.IGNORECASE,
+)
+
+
+def redact_text(value, limit=None):
+    """Limpia cualquier texto que vaya a quedar guardado en jobs.json.
+
+    Saca URLs crudas y parámetros de tracking: ahí es donde viajan los tokens
+    (otpToken, midToken, midSig, lipi, trkEmail, ...) que no queremos persistir.
+    """
+    s = normalize_text(value or "")
+    s = URL_RE.sub(" ", s)
+    s = SENSITIVE_PARAM_RE.sub(" ", s)
+    s = re.sub(r"[ \t]{2,}", " ", s)
+    s = re.sub(r"\s*\n\s*", " ", s)
+    s = s.strip(" ·-|,;:")
+    if limit and len(s) > limit:
+        s = s[:limit].rstrip(" ·-|,;:")
+    return s.strip()
+
+
+def sanitize_job(job):
+    """Aplica la limpieza a una oferta ya guardada (por si quedó data vieja)."""
+    out = dict(job)
+    out["title"] = redact_text(out.get("title"), 140)
+    out["company"] = redact_text(out.get("company"), 100) or "No especificada"
+    out["snippet"] = redact_text(out.get("snippet"), 300)
+    out["url"] = clean_url(out.get("url"), out.get("source", "otro"))
+    return out
 
 
 def clean_url(url, source="otro"):
@@ -399,23 +439,30 @@ def main():
                     for extracted in candidates:
                         if not extracted:
                             continue
-                        matched = keyword_match(extracted["title"], extracted["snippet"], config)
+                        title = redact_text(extracted.get("title"), 140)
+                        if not title or is_boilerplate(title):
+                            continue
+                        company = redact_text(extracted.get("company"), 100) or "No especificada"
+                        snippet = redact_text(extracted.get("snippet"), 300)
+                        url = clean_url(extracted.get("url"), source)
+
+                        matched = keyword_match(title, snippet, config)
                         if matched is None:
                             continue
 
-                        job_id = make_id(source, extracted["title"], extracted["company"], extracted["url"])
+                        job_id = make_id(source, title, company, url)
                         if job_id in seen_set:
                             continue
 
                         job = {
                             "id": job_id,
-                            "title": extracted["title"],
-                            "company": extracted["company"],
+                            "title": title,
+                            "company": company,
                             "source": source,
-                            "url": extracted["url"],
+                            "url": url,
                             "matched_keywords": matched,
                             "found_at": datetime.now(timezone.utc).isoformat(),
-                            "snippet": extracted["snippet"],
+                            "snippet": snippet,
                             "status": existing_status.get(job_id, "new"),
                         }
                         new_jobs.append(job)
@@ -436,6 +483,7 @@ def main():
         if pruned:
             print(f"🗑 {pruned} oferta(s) vencida(s) eliminada(s) (+{MAX_JOB_AGE_DAYS} días)")
 
+        jobs = [sanitize_job(j) for j in jobs]
         jobs = jobs[:MAX_JOBS_STORED]
         save_json(JOBS_PATH, jobs)
         save_json(SEEN_PATH, list(seen_set)[-MAX_SEEN_STORED:])
