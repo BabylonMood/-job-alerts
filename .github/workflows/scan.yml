@@ -33,6 +33,14 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python3 scan_email.py
 
+      - name: Verificar que jobs.json no tenga tokens ni PII
+        run: |
+          if grep -Eqi '(otpToken|midToken|midSig|trkEmail|trackingId|refId|lipi|eid)=' jobs.json; then
+            echo "::error::jobs.json contiene parametros de tracking o posibles tokens."
+            exit 1
+          fi
+          echo "OK: jobs.json limpio."
+
       - name: Commit updated jobs.json
         run: |
           git config user.name "job-alert-bot"
