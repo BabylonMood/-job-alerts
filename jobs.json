@@ -1,5 +1,31 @@
 [
   {
+    "id": "d0628f06afdc60c8",
+    "title": "Se ha creado tu alerta de empleo: Merketing en América Latina.",
+    "company": "Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias.",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4479097178",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-14T05:35:16.129675+00:00",
+    "snippet": "Se ha creado tu alerta de empleo: Merketing en América Latina. · Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias. · Marketing Project Manager - Global ECS",
+    "status": "new"
+  },
+  {
+    "id": "77c03d6ed977250d",
+    "title": "SEO Project Manager (Remote, Asuncion)",
+    "company": "Blacksmith Agency",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4478328951/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-14T05:35:16.491649+00:00",
+    "snippet": "SEO Project Manager (Remote, Asuncion) · Blacksmith Agency · Paraguay",
+    "status": "new"
+  },
+  {
     "id": "ex-0001",
     "title": "Project Manager",
     "company": "Estudio Ejemplo",
