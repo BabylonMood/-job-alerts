@@ -1,561 +1,106 @@
 [
   {
-    "id": "d42642e567dddb73",
-    "title": "Operations Manager",
-    "company": "Virtustant",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4476066298/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-10-13T21:37:51.030577+00:00",
-    "snippet": "Operations Manager · Virtustant · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "4595b68a1a7f0eae",
-    "title": "Technical Project Manager",
-    "company": "Jobgether",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4477288144/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-10-13T16:33:16.935684+00:00",
-    "snippet": "Technical Project Manager · Jobgether · España",
-    "status": "new"
-  },
-  {
-    "id": "28f3c2b7d4f830d6",
-    "title": "la candidata, solicita el puesto de Project Coordinator",
-    "company": "GlobalTeam y más",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/help/linkedin/answer/4788",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-10-06T00:26:59.489695+00:00",
-    "snippet": "Este email está dirigido a la candidata (Project Manager & Operations | Workflow Automation & AI) Averigua por qué incluimos esto",
-    "status": "new"
-  },
-  {
-    "id": "c7f2e4df771d92d7",
-    "title": "Auxiliar Administrativo",
-    "company": "Jobbol",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4475510577/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-10-05T18:37:01.194558+00:00",
-    "snippet": "Auxiliar Administrativo · Jobbol · Curitiba, PR",
-    "status": "new"
-  },
-  {
-    "id": "8589b416fd314860",
-    "title": "Project Manager - Operations",
-    "company": "Signant Health",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4317859098/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-10-01T23:16:00.619078+00:00",
-    "snippet": "Project Manager - Operations · Signant Health · Región Metropolitana de Santiago, Chile",
-    "status": "new"
-  },
-  {
-    "id": "ee421423e4b0cb56",
+    "id": "ex-0001",
     "title": "Project Manager",
-    "company": "Patagonia Digital",
+    "company": "Estudio Ejemplo",
     "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4471735546/",
+    "url": "https://example.com/ofertas/project-manager-estudio-ejemplo",
     "matched_keywords": [
       "project manager"
     ],
-    "found_at": "2026-10-01T13:35:26.679153+00:00",
-    "snippet": "Project Manager · Patagonia Digital · Rosario y alrededores",
+    "found_at": "2026-10-10T13:20:00+00:00",
+    "snippet": "Project Manager · Estudio Ejemplo · Remoto",
     "status": "new"
   },
   {
-    "id": "f99910e83600504e",
-    "title": "Un nuevo empleo coincide con tus preferencias.",
-    "company": "Senior Director, Project Management",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4471941242/",
+    "id": "ex-0002",
+    "title": "Coordinador de Operaciones",
+    "company": "Cooperativa Demo",
+    "source": "computrabajo",
+    "url": "https://example.com/ofertas/coordinador-operaciones-cooperativa-demo",
     "matched_keywords": [
-      "project management"
+      "coordinador de operaciones"
     ],
-    "found_at": "2026-10-01T00:13:44.139724+00:00",
-    "snippet": "Un nuevo empleo coincide con tus preferencias. · Senior Director, Project Management - Rheumatology (Europe) · Worldwide Clinical Trials",
+    "found_at": "2026-10-09T09:05:00+00:00",
+    "snippet": "Coordinador de Operaciones · Cooperativa Demo · Híbrido",
     "status": "new"
   },
   {
-    "id": "5b8c550caa252262",
-    "title": "Operations Manager",
-    "company": "Maisa",
+    "id": "ex-0003",
+    "title": "Marketing Automation Specialist",
+    "company": "Agencia Muestra",
     "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4471598991/",
+    "url": "https://example.com/ofertas/marketing-automation-agencia-muestra",
     "matched_keywords": [
-      "operations manager"
+      "agencia de marketing"
     ],
-    "found_at": "2026-10-01T00:13:44.445716+00:00",
-    "snippet": "Operations Manager · Maisa · Barcelona",
+    "found_at": "2026-10-08T17:42:00+00:00",
+    "snippet": "Marketing Automation Specialist · Agencia Muestra · Remoto",
     "status": "new"
   },
   {
-    "id": "66ce972cd85e63e4",
-    "title": "Project Manager",
-    "company": "Publicis Groupe",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4315767202/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-29T20:03:27.311548+00:00",
-    "snippet": "Project Manager · Publicis Groupe · Bogotá",
-    "status": "new"
-  },
-  {
-    "id": "10076c20cd7bf18b",
-    "title": "Search Engine Optimization Project Manager",
-    "company": "Search for Hire",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4471626487/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-29T02:05:51.755552+00:00",
-    "snippet": "Search Engine Optimization Project Manager · Search for Hire · América Latina",
-    "status": "new"
-  },
-  {
-    "id": "8f25b65fc2a4284a",
-    "title": "Project Manager",
-    "company": "Hitachi Energy",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4427905387/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-29T02:05:52.144312+00:00",
-    "snippet": "Project Manager · Hitachi Energy · San Isidro",
-    "status": "new"
-  },
-  {
-    "id": "7d47914a8d14d985",
-    "title": "🔔 Alerta inmediata: la candidata, hay una nueva oferta para Marketing",
-    "company": "No especificada",
+    "id": "ex-0004",
+    "title": "Product Owner",
+    "company": "Grupo Modelo",
     "source": "bumeran",
-    "url": "",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-27T23:10:27.936100+00:00",
-    "snippet": "Hay nuevos empleos para tu alerta inmediata Marketing ¡Aprovechá y postulate antes que nadie! Nuevo Recién publicado STACEY EVELYN ELIZABETH Digital Project Manager Capital Federal, Buenos Aires Part-time Remoto Apto discapacidad Postularme ¿Querés dejar de recibir este email? Gestioná tu alerta Rec",
-    "status": "new"
-  },
-  {
-    "id": "9ddcc39363b25fe1",
-    "title": "Project Manager Web (Drupal)",
-    "company": "Centro de Observación y Teledetección Espacial S.A.U.",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4436791032/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-26T17:49:16.871076+00:00",
-    "snippet": "Project Manager Web (Drupal) · Centro de Observación y Teledetección Espacial S.A.U. - COTESA · Madrid",
-    "status": "new"
-  },
-  {
-    "id": "21e35a29606aeb84",
-    "title": "Administrativo/a certificaciones y facturación",
-    "company": "Bureau Veritas",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469432817/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-24T17:23:14.858469+00:00",
-    "snippet": "Administrativo/a certificaciones y facturación · Bureau Veritas · Córdoba",
-    "status": "new"
-  },
-  {
-    "id": "45d9fa90927b8dd0",
-    "title": "Marketing Operations Manager",
-    "company": "License & Scale",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469985277/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-23T23:16:47.443118+00:00",
-    "snippet": "Marketing Operations Manager · License & Scale · Colombia",
-    "status": "new"
-  },
-  {
-    "id": "ced77ea40efc7ac7",
-    "title": "Un nuevo empleo coincide con tus preferencias.",
-    "company": "Project Manager",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469967447/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-23T06:53:13.478498+00:00",
-    "snippet": "Un nuevo empleo coincide con tus preferencias. · Project Manager · Orion Innovation",
-    "status": "new"
-  },
-  {
-    "id": "8aca13ba5276b3c0",
-    "title": "Especialista administrativo",
-    "company": "GTSUNIVERSAL|GENSEA GROUP",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469837928/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-23T01:34:12.324765+00:00",
-    "snippet": "Especialista administrativo · GTSUNIVERSAL|GENSEA GROUP · Madrid",
-    "status": "new"
-  },
-  {
-    "id": "3dd6606af8526cc8",
-    "title": "E-commerce & PR Operations Manager",
-    "company": "Parisa Wang",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4468014363/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-22T23:03:23.960048+00:00",
-    "snippet": "E-commerce & PR Operations Manager · Parisa Wang · Provincia de Buenos Aires, Argentina",
-    "status": "new"
-  },
-  {
-    "id": "0ab9fd60cb6813b6",
-    "title": "Asistente Virtual | 100% Remoto | Pago en USD | Crecimiento | ZR734",
-    "company": "Elevate Teams",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467282092/",
-    "matched_keywords": [
-      "asistente virtual"
-    ],
-    "found_at": "2026-09-22T23:03:24.712045+00:00",
-    "snippet": "Asistente Virtual | 100% Remoto | Pago en USD | Crecimiento | ZR734 · Elevate Teams · América Latina",
-    "status": "new"
-  },
-  {
-    "id": "84816d57c0f9c504",
-    "title": "Director Project Management - Rare Disease & Pediatrics",
-    "company": "Jobgether",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4468770090/",
+    "url": "https://example.com/ofertas/product-owner-grupo-modelo",
     "matched_keywords": [
       "project management"
     ],
-    "found_at": "2026-09-22T20:16:56.983244+00:00",
-    "snippet": "Director Project Management - Rare Disease & Pediatrics · Jobgether · España",
+    "found_at": "2026-10-07T11:15:00+00:00",
+    "snippet": "Product Owner · Grupo Modelo · Buenos Aires",
     "status": "new"
   },
   {
-    "id": "6fdefb0f64f56fb0",
-    "title": "Project Manager",
-    "company": "Lago",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469954267/",
+    "id": "ex-0005",
+    "title": "Asistente Ejecutiva",
+    "company": "Consultora Demo",
+    "source": "zonajobs",
+    "url": "https://example.com/ofertas/asistente-ejecutiva-consultora-demo",
     "matched_keywords": [
-      "project manager"
+      "asistente ejecutiva"
     ],
-    "found_at": "2026-09-22T20:16:57.495650+00:00",
-    "snippet": "Project Manager · Lago · Argentina",
+    "found_at": "2026-10-06T15:30:00+00:00",
+    "snippet": "Asistente Ejecutiva · Consultora Demo · Remoto",
     "status": "new"
   },
   {
-    "id": "8c3712a86f89db44",
-    "title": "Project Manager",
-    "company": "Arkano Software",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4468485637/",
+    "id": "ex-0006",
+    "title": "Analista Administrativo",
+    "company": "Servicios Muestra",
+    "source": "indeed",
+    "url": "https://example.com/ofertas/analista-administrativo-servicios-muestra",
     "matched_keywords": [
-      "project manager"
+      "analista administrativo"
     ],
-    "found_at": "2026-09-22T20:16:57.964576+00:00",
-    "snippet": "Project Manager · Arkano Software · América Latina",
+    "found_at": "2026-10-05T08:50:00+00:00",
+    "snippet": "Analista Administrativo · Servicios Muestra · Córdoba",
     "status": "new"
   },
   {
-    "id": "3134cb46fac6e7f0",
-    "title": "Marketing Project Manager",
-    "company": "ProperExpression",
+    "id": "ex-0007",
+    "title": "Account Manager",
+    "company": "Agencia Ejemplo",
     "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467084904/",
+    "url": "https://example.com/ofertas/account-manager-agencia-ejemplo",
     "matched_keywords": [
-      "project manager"
+      "account manager"
     ],
-    "found_at": "2026-09-22T17:05:47.081002+00:00",
-    "snippet": "Marketing Project Manager · ProperExpression · América Latina",
+    "found_at": "2026-10-04T14:10:00+00:00",
+    "snippet": "Account Manager · Agencia Ejemplo · Remoto",
     "status": "new"
   },
   {
-    "id": "50db9f55cb9dd86e",
-    "title": "Operations Manager",
-    "company": "Real Hires",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469242112/",
+    "id": "ex-0008",
+    "title": "Community Manager",
+    "company": "Estudio Norte",
+    "source": "computrabajo",
+    "url": "https://example.com/ofertas/community-manager-estudio-norte",
     "matched_keywords": [
-      "operations manager"
+      "agencia de marketing"
     ],
-    "found_at": "2026-09-22T17:05:47.744739+00:00",
-    "snippet": "Operations Manager · Real Hires · América Latina",
-    "status": "new"
-  },
-  {
-    "id": "2b7ef6a20847d0d9",
-    "title": "Clinical Operations Manager-Spain",
-    "company": "Indero (formerly Innovaderm)",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4460894461/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-21T23:24:21.507206+00:00",
-    "snippet": "Clinical Operations Manager-Spain · Indero (formerly Innovaderm) · Valencia/València",
-    "status": "new"
-  },
-  {
-    "id": "68a5e73e4c7ad19e",
-    "title": "Project Management Analyst",
-    "company": "IQVIA",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469532349/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-09-21T20:02:50.428165+00:00",
-    "snippet": "Project Management Analyst · IQVIA · Buenos Aires",
-    "status": "new"
-  },
-  {
-    "id": "f317c39825464568",
-    "title": "Auxiliar Administrativo",
-    "company": "Jobbol",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469220876/",
-    "matched_keywords": [
-      "administrativo"
-    ],
-    "found_at": "2026-09-21T08:03:45.694112+00:00",
-    "snippet": "Auxiliar Administrativo · Jobbol · Fortaleza, CE",
-    "status": "new"
-  },
-  {
-    "id": "a5e18f1632caaaff",
-    "title": "Operations Manager",
-    "company": "crewlia",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469545809/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-21T08:03:46.126886+00:00",
-    "snippet": "Operations Manager · crewlia · España",
-    "status": "new"
-  },
-  {
-    "id": "26304c93bc9321c4",
-    "title": "Operations Manager",
-    "company": "crewlia",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469554569/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-21T08:03:47.592710+00:00",
-    "snippet": "Operations Manager · crewlia · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "55c889d2a041d382",
-    "title": "Program/Project Management Lead",
-    "company": "Accenture Chile",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467118350/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-09-20T23:40:13.140757+00:00",
-    "snippet": "Program/Project Management Lead · Accenture Chile · Gran Santiago",
-    "status": "new"
-  },
-  {
-    "id": "fe43e44c8e2d614f",
-    "title": "Project Manager",
-    "company": "FHI 360",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4440889437/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-20T23:40:13.477390+00:00",
-    "snippet": "Project Manager · FHI 360 · Colombia",
-    "status": "new"
-  },
-  {
-    "id": "39537c9153f6df9f",
-    "title": "Operations Manager",
-    "company": "Bryq",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469186339/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-20T12:43:07.163616+00:00",
-    "snippet": "Operations Manager · Bryq · España",
-    "status": "new"
-  },
-  {
-    "id": "485d8896a53652c9",
-    "title": "Tu solicitud para el puesto de Estratega Creativo",
-    "company": "Duck Studios",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/help/linkedin/answer/4788",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-20T07:49:22.342037+00:00",
-    "snippet": "Tu actualización de Duck Studios ---------------------------------------- Este email está dirigido a la candidata (Project Manager & Operations | Process Optimization) Averigua por qué incluimos esto",
-    "status": "new"
-  },
-  {
-    "id": "455ad0f19e00d2a4",
-    "title": "Marketing Project Manager",
-    "company": "Freitag Marketing",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4467589252/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-20T07:49:23.212238+00:00",
-    "snippet": "Marketing Project Manager · Freitag Marketing · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "0de5120b5094521a",
-    "title": "Project Manager",
-    "company": "Job Duck",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4469185341/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-20T07:49:24.151062+00:00",
-    "snippet": "Project Manager · Job Duck · Colombia",
-    "status": "new"
-  },
-  {
-    "id": "e75d38e2fe1bbaa6",
-    "title": "Web Project Manager",
-    "company": "floowi",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4468659624/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-20T02:07:25.441248+00:00",
-    "snippet": "Web Project Manager · floowi · México",
-    "status": "new"
-  },
-  {
-    "id": "800efab0e8c72b96",
-    "title": "Project Manager",
-    "company": "CodingIT",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466908945/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-19T23:44:33.513357+00:00",
-    "snippet": "Project Manager · CodingIT · Argentina",
-    "status": "new"
-  },
-  {
-    "id": "8aaa0e2b8fa4b291",
-    "title": "Operations Manager",
-    "company": "BMG Virtual Partners",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466903439/",
-    "matched_keywords": [
-      "operations manager"
-    ],
-    "found_at": "2026-09-19T19:01:59.621574+00:00",
-    "snippet": "Operations Manager · BMG Virtual Partners · México",
-    "status": "new"
-  },
-  {
-    "id": "55c90c2eaa662164",
-    "title": "Program/Project Management Lead",
-    "company": "Accenture Colombia",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4457699922/",
-    "matched_keywords": [
-      "project management"
-    ],
-    "found_at": "2026-09-19T16:36:07.948586+00:00",
-    "snippet": "Program/Project Management Lead · Accenture Colombia · Bogotá",
-    "status": "new"
-  },
-  {
-    "id": "0289b9dbc615a505",
-    "title": "Project Manager DIGITAL",
-    "company": "Alma",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4466206092/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-19T00:26:04.784803+00:00",
-    "snippet": "Project Manager DIGITAL · Alma · Rosario",
-    "status": "new"
-  },
-  {
-    "id": "f72105acfffa8ee8",
-    "title": "Tu solicitud para el puesto de Project Manager",
-    "company": "Rooftop.dev",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/help/linkedin/answer/4788",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-18T22:00:42.853249+00:00",
-    "snippet": "Tu actualización de Rooftop.dev ---------------------------------------- Este email está dirigido a la candidata (Project Manager & Operations | Process Optimization) Averigua por qué incluimos esto",
-    "status": "new"
-  },
-  {
-    "id": "8be75ea2c15f9f4f",
-    "title": "Project Manager",
-    "company": "83zero",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465972699/",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-18T05:21:59.109148+00:00",
-    "snippet": "Project Manager · 83zero · España",
-    "status": "new"
-  },
-  {
-    "id": "12ad101cd8dfc619",
-    "title": "Se ha creado tu alerta de empleo: Marketing en América Latina.",
-    "company": "Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias.",
-    "source": "linkedin",
-    "url": "https://www.linkedin.com/comm/jobs/view/4465278743",
-    "matched_keywords": [
-      "project manager"
-    ],
-    "found_at": "2026-09-17T05:34:10.342506+00:00",
-    "snippet": "Se ha creado tu alerta de empleo: Marketing en América Latina. · Recibirás notificaciones cuando se anuncien nuevos empleos que coincidan con tus preferencias. · Marketing Project Manager",
+    "found_at": "2026-10-03T10:25:00+00:00",
+    "snippet": "Community Manager · Estudio Norte · Rosario",
     "status": "new"
   }
 ]
