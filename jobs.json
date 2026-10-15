@@ -1,5 +1,31 @@
 [
   {
+    "id": "e5f1c84b9144b369",
+    "title": "Project Manager",
+    "company": "GEA AGENCY",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4475644862/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-15T11:47:04.109785+00:00",
+    "snippet": "Project Manager · GEA AGENCY · Barcelona",
+    "status": "new"
+  },
+  {
+    "id": "30b34669d9824d3a",
+    "title": "Project Manager (Argentina)",
+    "company": "Indero (formerly Innovaderm)",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/comm/jobs/view/4405474591/",
+    "matched_keywords": [
+      "project manager"
+    ],
+    "found_at": "2026-10-15T11:47:04.594459+00:00",
+    "snippet": "Project Manager (Argentina) · Indero (formerly Innovaderm) · Buenos Aires y alrededores",
+    "status": "new"
+  },
+  {
     "id": "d42642e567dddb73",
     "title": "Operations Manager",
     "company": "Virtustant",
